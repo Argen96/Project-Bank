@@ -1,0 +1,509 @@
+ody {
+    background-color: rgb(230, 230, 230);
+    width: 100%;
+    height: 100%;
+    padding-bottom: 100px;
+  }
+  
+  .login {
+    color: black;
+    background-color: transparent;
+    position: absolute;
+    text-decoration: none;
+    margin-top: 40px;
+    margin-left: 50px;
+    font-size: xx-large;
+    width: 260px;
+    height: 30px;
+  }
+  
+  ul {
+    margin-top: 38px;
+    list-style: none;
+    display: inline-flex;
+    margin-left: 800px;
+  }
+  ul li {
+    list-style: none;
+    display: inline-flex;
+    margin-left: 160px;
+    width: 70px;
+    height: 50px;
+  }
+  input {
+    border-radius: 55%;
+  
+    margin-left: 20px;
+    padding-left: 60px;
+    width: 120px;
+  }
+  .filter::placeholder {
+    left: 70px;
+  }
+  .image {
+    width: 120px;
+    height: 100px;
+    margin-left: 650px;
+    margin-top: -100px;
+  }
+  .submit {
+    border: none;
+    cursor: pointer;
+    background-color: transparent;
+    margin-left: -70px;
+    pointer-events: visibleFill;
+  }
+  .login1 {
+    color: black;
+    background-color: transparent;
+    position: absolute;
+    text-decoration: none;
+    margin-top: 40px;
+    margin-left: 50px;
+    font-size: x-large;
+    width: 400px;
+    height: 70px;
+  }
+  .curentBalance {
+    margin-top: 120px;
+    margin-left: 250px;
+  }
+  .balance {
+    margin-left: 1100px;
+    margin-top: -90px;
+    font-size: 50px;
+  }
+  .div1 {
+    background-color: white;
+    height: 680px;
+    width: 650px;
+    margin-left: 100px;
+    margin-top: 90px;
+  
+  }
+  .div2 {
+    margin-top: 50px;
+    position: absolute;
+    background-color: orange;
+    height: 200px;
+    width: 600px;
+    top: 360px;
+    right: 80px;
+    text-shadow: transparent;
+  
+  }
+  .div3 {
+    margin-top: 50px;
+    background-color: red;
+    height: 200px;
+    width: 600px;
+    top: 840px;
+    right: 80px;
+    position: absolute;
+  
+  }
+  .div4 {
+    margin-top: 50px;
+    background-color: green;
+    height: 200px;
+    width: 600px;
+    top: 600px;
+    right: 80px;
+    position: absolute;
+   
+  }
+  .transfer {
+    text-align: center;
+  }
+  .inputtransfer {
+    font-size: 25px;
+    border-radius: 20%;
+    height: 50px;
+  }
+  .inputtransfer1 {
+    font-size: 25px;
+    border-radius: 20%;
+    height: 50px;
+  }
+  .transfeTo {
+    margin-left: 60px;
+    font-size: 20px;
+    margin-top: 10px;
+  }
+  .transfeTo1 {
+    margin-left: 60px;
+    font-size: 20px;
+    margin-top: 10px;
+  }
+  .amount {
+    margin-left: 280px;
+    font-size: 20px;
+    margin-top: -50px;
+  }
+  .amount1 {
+    margin-left: 280px;
+    font-size: 20px;
+    margin-top: -50px;
+  }
+  .buton {
+    height: 40px;
+    width: 50px;
+    cursor: pointer;
+  }
+  .buton4 {
+    height: 40px;
+    width: 50px;
+    cursor: pointer;
+  }
+  .buton1 {
+    height: 40px;
+    width: 50px;
+    cursor: pointer;
+  }
+  .buttoni {
+    height: 40px;
+    width: 50px;
+    cursor: pointer;
+  }
+  .request {
+    font-size: 25px;
+    margin-top: 40px;
+    margin-left: 200px;
+  }
+  .requestButton {
+    font-size: 25px;
+    margin-left: 160px;
+    border-radius: 20%;
+    height: 50px;
+  }
+  .confirmu {
+    margin-top: 250px;
+    margin-left: 60px;
+    color: black;
+  }
+  .confirmpsw {
+    margin-top: -40px;
+    margin-left: 260px;
+    color: black;
+  }
+  .listdiv1 {
+    display: block;
+    height: 200px;
+    width: 200px;
+  
+    margin-left: -160px;
+  }
+  .list2 {
+    margin-top: 80px;
+    border: 1px solid;
+    height: 30px;
+    width: 120px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    border-radius: 30%;
+    background-color: red;
+    color: white;
+    font-size: larger;
+    text-shadow: transparent;
+    transform-style: preserve-3d;
+  }
+  .list4 {
+    margin-top: 80px;
+    border: 1px solid;
+    height: 30px;
+    width: 120px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    border-radius: 30%;
+    background-color: red;
+    color: white;
+    font-size: larger;
+    text-shadow: transparent;
+    transform-style: preserve-3d;
+  }
+  .list3 {
+    margin-top: 60px;
+    border: 1px solid;
+    height: 30px;
+    width: 120px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    border-radius: 30%;
+    background-color: green;
+    color: white;
+    font-size: larger;
+    text-shadow: transparent;
+    transform-style: preserve-3d;
+  }
+  .list5 {
+    margin-top: 60px;
+    border: 1px solid;
+    height: 30px;
+    width: 120px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    border-radius: 30%;
+    background-color: green;
+    color: white;
+    font-size: larger;
+    text-shadow: transparent;
+    transform-style: preserve-3d;
+  }
+  .money {
+    margin-top: -130px;
+    margin-left: 500px;
+    font-size: xx-large;
+  }
+  .money1 {
+    margin-top: 120px;
+    margin-left: 500px;
+    font-size: xx-large;
+  }
+  .money2 {
+    margin-top: 130px;
+    margin-left: 500px;
+    font-size: xx-large;
+  }
+  .money3 {
+    margin-top: 120px;
+    margin-left: 500px;
+    font-size: xx-large;
+  }
+  .money4 {
+    margin-top: 80px;
+    margin-left: 500px;
+    font-size: xx-large;
+  }
+  .hr {
+    margin-left: 120px;
+    width: 649px;
+    margin-top: 50px;
+  }
+  .balance1 {
+    margin-left: 1065px;
+    margin-top: -90px;
+    font-size: 50px;
+  }
+  .h4 {
+    margin-left: 270px;
+    color: grey;
+  }
+  .withdrawaltime {
+    position: absolute;
+    margin-left: 400px;
+    margin-top: -30px;
+    color: grey;
+  }
+  .withdrawaltime1 {
+    position: absolute;
+    margin-left: 400px;
+    margin-top: -30px;
+    color: grey;
+  }
+  .withdrawaltime2 {
+    position: absolute;
+    margin-left: 400px;
+    margin-top: -30px;
+    color: grey;
+  }
+  .withdrawaltime3 {
+    position: absolute;
+    margin-left: 400px;
+    margin-top: -30px;
+    color: grey;
+  }
+  
+  .have {
+    position: absolute;
+  
+    margin-top: 65px;
+    margin-left: 120px;
+    color: black;
+    padding: 8px;
+    animation: beat 0.45s infinite alternate;
+  }
+  .NotSelected {
+    display: none;
+  }
+  .closed123 {
+    border: 1px solid;
+    margin-top: -630px;
+    margin-left: 500px;
+    height: 390px;
+    width: 500px;
+    background-color: ghostwhite;
+    position: absolute;
+  }
+  .closed123 .h1closed {
+    border: 1px solid;
+    padding-left: 30px;
+    background-color: gray;
+    position: relative;
+    margin-top: 0px;
+    padding-bottom: 15px;
+  }
+  #radio {
+    margin-top: 35px;
+    margin-left: -35px;
+  }
+  #radio:hover {
+    padding-left: 50px;
+    position: relative;
+    cursor: pointer;
+  }
+  .label {
+    margin-top: 0px;
+    font-size: 22px;
+    margin-left: -40px;
+    padding-bottom: 30px;
+    color: red;
+  }
+  .label3 {
+    margin-top: 0px;
+    font-size: 22px;
+    margin-left: -40px;
+    padding-bottom: 30px;
+    color: blue;
+  }
+  .label4 {
+    margin-top: 0px;
+    font-size: 22px;
+    margin-left: -40px;
+    padding-bottom: 30px;
+    color: black;
+  }
+  .label5 {
+    margin-top: 0px;
+    font-size: 22px;
+    margin-left: -40px;
+    padding-bottom: 30px;
+    color: green;
+  }
+  #submit1234 {
+    background-color: blue;
+    padding-right: 80px;
+    color: white;
+    font-size: 20px;
+  
+    height: 40px;
+    margin-left: 158.5px;
+  
+    top: 330px;
+    box-shadow: 0rem;
+    border-radius: 1px;
+    height: 60px;
+    position: absolute;
+  }
+  .botun {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    height: 53px;
+    width: 60px;
+    cursor: pointer;
+  }
+  .botun:hover {
+    cursor: pointer;
+    background-color: brown;
+  }
+  #submit1234:hover {
+    cursor: pointer;
+    background-color: grey;
+  }
+  .account {
+    display: none;
+  }
+  .closed1div {
+    margin-left: 350px;
+    margin-top: 240px;
+    width: 700px;
+  
+    padding-left: 65px;
+    animation: hideAnimation 0s ease-in 2.5s;
+    animation-fill-mode: forwards;
+  }
+  .closed1div .closedh1 {
+    margin-top: 55px;
+    color: red;
+    padding-bottom: 30px;
+    animation: hideAnimation 0s ease-in 2.5s;
+    animation-fill-mode: forwards;
+  }
+  .please {
+    display: none;
+  }
+  .SelectName {
+    position: absolute;
+    color: rgb(105, 3, 3);
+    margin-top: -25px;
+    margin-left: 135px;
+    padding: 5px;
+    animation: beat 0.45s infinite alternate;
+  }
+  .SelectName1 {
+    position: absolute;
+    color: rgb(105, 3, 3);
+    margin-top: -25px;
+    margin-left: 135px;
+    padding: 5px;
+    animation: beat 0.45s infinite alternate;
+  }
+  .fill {
+    color: rgb(105, 3, 3);
+    margin-top: 65px;
+    margin-left: 175px;
+    padding: 5px;
+    animation: beat 0.45s infinite alternate;
+    color: blue;
+  }
+  .boxes {
+    display: none;
+  }
+  .h3 {
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 60px;
+    color: red;
+  }
+  .accounth3 {
+    display: none;
+  }
+  @keyframes beat {
+    to {
+      transform: scale(1.4);
+    }
+  }
+  @keyframes hideAnimation {
+    to {
+      visibility: hidden;
+    }
+  }
+  .logout {
+    position: absolute;
+    margin-left: 1390px;
+    background-color: red;
+    padding: 20px;
+    margin-top: 30px;
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+  }
+  .logout:hover {
+    color: white;
+  }
+  .in {
+    color: red;
+    margin-left: 200px;
+    margin-top: 50px;
+  }
+  .out {
+    color: green;
+    margin-left: 450px;
+    margin-top: -50px;
+  }
+
+ 

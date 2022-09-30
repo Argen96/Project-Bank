@@ -1,0 +1,810 @@
+body {
+    background-color: white;
+  }
+  
+  .form1 {
+    position: absolute;
+    margin-left: 1000px;
+    top: 300px;
+  }
+  label {
+    font-size: xx-large;
+    color: gray;
+  }
+  input {
+    margin-top: 10px;
+    height: 30px;
+    margin-bottom: 10px;
+    border-radius: 20%;
+    padding-left: 20px;
+    border-color: goldenrod;
+  }
+  .submitLogIn {
+    font-size: xx-large;
+    border: none;
+    background-color: rgb(221, 162, 13);
+    color: white;
+    margin-top: 25px;
+    width: 180px;
+    padding-bottom: 50px;
+    cursor: pointer;
+    padding-right: 20px;
+    padding-top: 10px;
+  }
+  .submitLogIn:hover {
+    background-color: blue;
+  }
+  .signin1 {
+    position: absolute;
+  
+    margin-left: 1000px;
+    width: 500px;
+    color: white;
+    background-color: rgb(211, 121, 121);
+    padding: 20px;
+    top: 0px;
+  }
+  .imagesignin {
+    position: absolute;
+    left: 40px;
+    top: 180px;
+    height: 580px;
+    width: 850px;
+  }
+  .signin1 {
+    margin-top: 180px;
+  }
+  .image {
+    width: 120px;
+    height: 100px;
+    margin-left: 650px;
+    margin-top: -157px;
+    position: absolute;
+  }
+  .Name {
+    margin-top: 12px;
+    margin-left: 215px;
+    position: absolute;
+    width: 190px;
+    background-color: rgb(160, 62, 62);
+    padding: 7px;
+    padding-left: 17px;
+    color: rgb(255, 255, 255);
+    border-top-left-radius: 60%;
+    border-bottom-left-radius: 60%;
+  }
+  .Psw {
+    position: absolute;
+    width: 230px;
+    background-color: rgb(160, 62, 62);
+    padding: 7px;
+    padding-left: 27px;
+    color: rgb(255, 255, 255);
+    border-top-left-radius: 60%;
+    border-bottom-left-radius: 60%;
+    margin-top: 12px;
+    margin-left: 215px;
+  }
+  .Email {
+    margin-top: 12px;
+    margin-left: 215px;
+    position: absolute;
+    width: 190px;
+    background-color: rgb(160, 62, 62);
+    padding: 7px;
+    padding-left: 17px;
+    color: rgb(255, 255, 255);
+    border-top-left-radius: 60%;
+    border-bottom-left-radius: 60%;
+  }
+  .Birthday {
+    margin-top: 12px;
+    margin-left: 155px;
+    position: absolute;
+    width: 230px;
+    background-color: rgb(160, 62, 62);
+    padding: 7px;
+    padding-left: 17px;
+    color: rgb(255, 255, 255);
+    border-top-left-radius: 60%;
+    border-bottom-left-radius: 60%;
+  }
+  .Please {
+    display: none;
+  }
+  .navibarFrontPage {
+    margin-left: -120px;
+    position: absolute;
+    background-color: white;
+    width: 109%;
+    border-bottom: 1px solid;
+    border-color: blue;
+    height: 140px;
+    margin-top: 0px;
+  }
+  
+  .navibarFrontPage.frontPageUl {
+    list-style: none;
+  }
+  .li {
+    list-style: none;
+    text-decoration: none;
+    display: inline-flex;
+    margin-left: 80px;
+    color: blue;
+    background-color: transparent;
+    font-size: x-large;
+    padding: 5px;
+    height: 0px;
+    border-radius: 10%;
+    padding-bottom: 90px;
+    margin-top: -70px;
+  }
+  
+  .Project {
+    margin-left: 320px;
+    color: black;
+    margin-top: 0px;
+    font-size: larger;
+  }
+  .imagenavibarFrontPage {
+    width: 100px;
+    height: 100px;
+    margin-left: 190px;
+    margin-top: 0px;
+    position: absolute;
+    padding-bottom: 0%;
+    list-style: none;
+    background-color: transparent;
+  }
+  a {
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .h5 {
+    color: blue;
+  }
+  .h5:hover {
+    color: rgb(134, 134, 134);
+    font-size: 23px;
+  }
+  .footer {
+    position: absolute;
+    margin-top: 820px;
+    background-color: rgb(170, 161, 161);
+    left: 0px;
+    height: 350px;
+    width: 100%;
+  }
+  .footer h3 {
+    color: white;
+    margin-left: 100px;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .footer img {
+    height: 209px;
+    width: 200px;
+    margin-left: 300px;
+    margin-top: -80px;
+  }
+  .footer123 {
+    position: absolute;
+    margin-top: 2240px;
+    background-color: black;
+    left: 0px;
+    height: 350px;
+  }
+  @media (max-width: 1450px) {
+    .navibarFrontPage {
+      margin-left: -150px;
+      position: absolute;
+      background-color: white;
+      width: 109%;
+      border-bottom: 1px solid;
+      border-color: blue;
+      height: 140px;
+    }
+    
+    .navibarFrontPage.frontPageUl {
+      list-style: none;
+    }
+    .li {
+      list-style: none;
+      text-decoration: none;
+      display: inline-flex;
+      margin-left: 40px;
+      color: blue;
+      background-color: transparent;
+      font-size: x-large;
+      padding: 5px;
+      height: 0px;
+      border-radius: 10%;
+      padding-bottom: 90px;
+      margin-top: -70px;
+    }
+    
+    .Project {
+      margin-left: 320px;
+      color: black;
+      margin-top: 0px;
+      font-size: larger;
+    }
+    .imagenavibarFrontPage {
+      width: 100px;
+      height: 100px;
+      margin-left: 190px;
+      margin-top: 0px;
+      position: absolute;
+      padding-bottom: 0%;
+      list-style: none;
+      background-color: transparent;
+    }
+    a {
+      text-decoration: none;
+      cursor: pointer;
+      font-size:10px ;
+    }
+    .h5 {
+      color: blue;
+      font-size:13px ;
+    }
+    .h5:hover {
+      color: grey;
+      font-size: 23px;
+    }
+    .footer123 {
+      position: absolute;
+      margin-top: 2720px;
+      background-color: rgb(170, 161, 161);
+      left: 0px;
+      height: 350px;
+      width: 100%;
+    }
+    .footer123 h3 {
+      color: white;
+      margin-left: 40px;
+      margin-top: 100px;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    .footer123 img {
+      height: 225px;
+      width: 200px;
+      margin-left: 200px;
+      margin-top: -80px;
+    }
+    .footer {
+      position: absolute;
+      margin-top: 900px;
+      background-color: rgb(170, 161, 161);
+      left: 0px;
+      height: 350px;
+      width: 100%;
+    
+    }
+    .footer h3 {
+      color: white;
+      margin-left: 30px;
+      margin-top: 100px;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    .footer img {
+      height: 225px;
+      width: 200px;
+      margin-left: 200px;
+      margin-top: -80px;
+    }
+    .imagesignin{
+   height: 90%;
+   width: 60%;
+    }
+    .signin1{
+      margin-left: 800px;
+      font-size: 15px;
+      width:34%
+    }
+    input {
+      margin-top: 10px;
+      height: 30px;
+      margin-bottom: 10px;
+      border-radius: 20%;
+      padding-left: 20px;
+      border-color: goldenrod;
+      margin-left: -100px ;
+    }
+    .submitLogIn {
+      font-size: xx-large;
+      border: none;
+      background-color: rgb(221, 162, 13);
+      color: white;
+      margin-top: 25px;
+      width: 180px;
+      padding-bottom: 50px;
+      cursor: pointer;
+      padding-right: 20px;
+      padding-top: 10px;
+    }
+    .submitLogIn:hover {
+      background-color: blue;
+    }
+    .signin1 {
+      position: absolute;
+    font-size: 15px;
+      margin-left: 900px;
+      width: 350px;
+      color: white;
+      background-color: rgb(211, 121, 121);
+      padding: 20px;
+      top: 0px;
+    }
+    .imagesignin {
+      position: absolute;
+      left: 40px;
+      top: 180px;
+      height: 580px;
+      width: 850px;
+    }
+  
+    .image {
+      width: 120px;
+      height: 100px;
+      margin-left: 650px;
+      margin-top: -157px;
+      position: absolute;
+    }
+    .Name {
+      margin-top: 12px;
+      margin-left: 115px;
+      position: absolute;
+      width: 190px;
+      background-color: rgb(160, 62, 62);
+      padding: 7px;
+      padding-left: 17px;
+      color: rgb(255, 255, 255);
+      border-top-left-radius: 60%;
+      border-bottom-left-radius: 60%;
+    }
+    .Psw {
+      position: absolute;
+      width: 230px;
+      background-color: rgb(160, 62, 62);
+      padding: 7px;
+      padding-left: 27px;
+      color: rgb(255, 255, 255);
+      border-top-left-radius: 60%;
+      border-bottom-left-radius: 60%;
+      margin-top: 12px;
+      margin-left: 114px;
+    }
+    .Email {
+      margin-top: 12px;
+      margin-left: 115px;
+      position: absolute;
+      width: 190px;
+      background-color: rgb(160, 62, 62);
+      padding: 7px;
+      padding-left: 17px;
+      color: rgb(255, 255, 255);
+      border-top-left-radius: 60%;
+      border-bottom-left-radius: 60%;
+    }
+    .Birthday {
+      margin-top: 12px;
+      margin-left: 95px;
+      position: absolute;
+      width: 230px;
+      background-color: rgb(160, 62, 62);
+      padding: 7px;
+      padding-left: 17px;
+      color: rgb(255, 255, 255);
+      border-top-left-radius: 60%;
+      border-bottom-left-radius: 60%;
+}
+label{
+  margin-left: -100px;
+}
+}
+@media (max-width: 1150px){
+  .navibarFrontPage {
+    margin-left: -150px;
+    position: absolute;
+    background-color: white;
+    width: 109%;
+    border-bottom: 1px solid;
+    border-color: blue;
+    height: 140px;
+  }
+  
+  .navibarFrontPage.frontPageUl {
+    list-style: none;
+  }
+  .li {
+    list-style: none;
+    text-decoration: none;
+    display: inline-flex;
+    margin-left: 40px;
+    color: blue;
+    background-color: transparent;
+    font-size: x-large;
+    padding: 5px;
+    height: 0px;
+    border-radius: 10%;
+    padding-bottom: 90px;
+    margin-top: -70px;
+  }
+  
+  .Project {
+    margin-left: 320px;
+    color: black;
+    margin-top: 30px;
+    font-size: small;
+  }
+  .imagenavibarFrontPage {
+    width: 50px;
+    height: 50px;
+    margin-left: 190px;
+    margin-top: 50px;
+    position: absolute;
+    padding-bottom: 0%;
+    list-style: none;
+    background-color: transparent;
+  }
+  a {
+    text-decoration: none;
+    cursor: pointer;
+    font-size:10px ;
+  }
+  .h5 {
+    color: blue;
+    font-size:8px ;
+  }
+  .h5:hover {
+    color: grey;
+    font-size: 23px;
+  }
+  .footer123 {
+    position: absolute;
+    margin-top: 2720px;
+    background-color: rgb(170, 161, 161);
+    left: 0px;
+    height: 350px;
+    width: 100%;
+  }
+  .footer123 h3 {
+    color: white;
+    margin-left: 40px;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .footer123 img {
+    height: 225px;
+    width: 200px;
+    margin-left: 200px;
+    margin-top: -80px;
+  }
+  .footer {
+    position: absolute;
+    margin-top: 900px;
+    background-color: rgb(170, 161, 161);
+    left: 0px;
+    height: 350px;
+    width: 100%;
+  
+  }
+  .footer h3 {
+    color: white;
+    margin-left: 30px;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .footer img {
+    height: 180px;
+    width: 180px;
+    margin-left: 150px;
+    margin-top: -80px;
+  }
+  .imagesignin{
+ height: 90%;
+ width: 60%;
+  }
+  .signin1{
+    margin-left: 800px;
+    font-size: 15px;
+    width:34%
+  }
+  input {
+    margin-top: 10px;
+    height: 30px;
+    margin-bottom: 10px;
+    border-radius: 20%;
+    padding-left: -120px;
+    border-color: goldenrod;
+    margin-left: -420px ;
+  }
+  .submitLogIn {
+    font-size: xx-large;
+    border: none;
+    background-color: rgb(221, 162, 13);
+    color: white;
+    margin-top: 25px;
+    width: 180px;
+    padding-bottom: 50px;
+    cursor: pointer;
+    padding-right: 20px;
+    padding-top: 10px;
+  }
+  .submitLogIn:hover {
+    background-color: blue;
+  }
+  .signin1 {
+    position: absolute;
+  font-size: 15px;
+    margin-left: 600px;
+    width: 350px;
+    color: white;
+    background-color: rgb(211, 121, 121);
+    padding: 20px;
+    top: 0px;
+  }
+  .imagesignin {
+    position: absolute;
+    left: 40px;
+    top: 180px;
+    height: 580px;
+    width: 850px;
+  }
+
+  .image {
+    width: 120px;
+    height: 100px;
+    margin-left: 650px;
+    margin-top: -157px;
+    position: absolute;
+  }
+  .Name {
+    margin-top: 12px;
+    margin-left: -215px;
+    position: absolute;
+    width: 190px;
+    background-color: rgb(160, 62, 62);
+    padding: 7px;
+    padding-left: 17px;
+    color: rgb(255, 255, 255);
+    border-top-left-radius: 60%;
+    border-bottom-left-radius: 60%;
+  }
+  .Psw {
+    position: absolute;
+    width: 230px;
+    background-color: rgb(160, 62, 62);
+    padding: 7px;
+    padding-left: 27px;
+    color: rgb(255, 255, 255);
+    border-top-left-radius: 60%;
+    border-bottom-left-radius: 60%;
+    margin-top: 12px;
+    margin-left: -214px;
+  }
+  .Email {
+    margin-top: 12px;
+    margin-left: -215px;
+    position: absolute;
+    width: 190px;
+    background-color: rgb(160, 62, 62);
+    padding: 7px;
+    padding-left: 17px;
+    color: rgb(255, 255, 255);
+    border-top-left-radius: 60%;
+    border-bottom-left-radius: 60%;
+  }
+  .Birthday {
+    margin-top: 12px;
+    margin-left: -235px;
+    position: absolute;
+    width: 230px;
+    background-color: rgb(160, 62, 62);
+    padding: 7px;
+    padding-left: 17px;
+    color: rgb(255, 255, 255);
+    border-top-left-radius: 60%;
+    border-bottom-left-radius: 60%;
+}
+label{
+margin-left: -400px;
+}
+.imagesignin{
+  height: 500px;
+  width: 500px;
+}
+}
+@media (max-width: 1050px) {
+  .Project {
+    margin-left: 320px;
+    color: black;
+    margin-top: 30px;
+    font-size: small;
+  }
+  .imagenavibarFrontPage {
+    width: 50px;
+    height: 50px;
+    margin-left: 190px;
+    margin-top: 50px;
+    position: absolute;
+    padding-bottom: 0%;
+    list-style: none;
+    background-color: transparent;
+  }
+  a {
+    text-decoration: none;
+    cursor: pointer;
+    font-size:10px ;
+  }
+  .h5 {
+    color: blue;
+    font-size:8px ;
+  }
+  .h5:hover {
+    color: grey;
+    font-size: 23px;
+  }
+  .footer123 {
+    position: absolute;
+    margin-top: 2720px;
+    background-color: rgb(170, 161, 161);
+    left: 0px;
+    height: 350px;
+    width: 100%;
+  }
+  .footer123 h3 {
+    color: white;
+    margin-left: 40px;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .footer123 img {
+    height: 225px;
+    width: 200px;
+    margin-left: 200px;
+    margin-top: -80px;
+  }
+  .footer {
+    position: absolute;
+    margin-top: 900px;
+    background-color: rgb(170, 161, 161);
+    left: 0px;
+    height: 350px;
+    width: 100%;
+  
+  }
+  .footer h3 {
+    color: white;
+    margin-left: 30px;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .footer img {
+    height: 180px;
+    width: 150px;
+    margin-left: 150px;
+    margin-top: -80px;
+  }
+  .imagesignin{
+ height: 90%;
+ width: 60%;
+  }
+  .signin1{
+    margin-left: 800px;
+    font-size: 15px;
+    width:34%
+  }
+  input {
+    margin-top: 10px;
+    height: 30px;
+    margin-bottom: 10px;
+    border-radius: 20%;
+    padding-left: -120px;
+    border-color: goldenrod;
+    margin-left: -420px ;
+  }
+  .submitLogIn {
+    font-size: xx-large;
+    border: none;
+    background-color: rgb(221, 162, 13);
+    color: white;
+    margin-top: 25px;
+    width: 180px;
+    padding-bottom: 50px;
+    cursor: pointer;
+    padding-right: 20px;
+    padding-top: 10px;
+  }
+  .submitLogIn:hover {
+    background-color: blue;
+  }
+  .signin1 {
+    position: absolute;
+  font-size: 15px;
+    margin-left: 600px;
+    width: 350px;
+    color: white;
+    background-color: rgb(211, 121, 121);
+    padding: 20px;
+    top: 0px;
+  }
+  .imagesignin {
+    position: absolute;
+    left: 40px;
+    top: 180px;
+    height: 580px;
+    width: 850px;
+  }
+
+  .image {
+    width: 120px;
+    height: 100px;
+    margin-left: 650px;
+    margin-top: -157px;
+    position: absolute;
+  }
+  .Name {
+    margin-top: 12px;
+    margin-left: -225px;
+    position: absolute;
+    width: 180px;
+    background-color: rgb(160, 62, 62);
+    padding: 7px;
+    padding-left: 17px;
+    color: rgb(255, 255, 255);
+    border-top-left-radius: 60%;
+    border-bottom-left-radius: 60%;
+    font-size: 10px;
+  }
+  .Psw {
+    position: absolute;
+    width: 230px;
+    background-color: rgb(160, 62, 62);
+    padding: 7px;
+    padding-left: 27px;
+    color: rgb(255, 255, 255);
+    border-top-left-radius: 60%;
+    border-bottom-left-radius: 60%;
+    margin-top: 12px;
+    margin-left: -225px;
+    font-size: 10px;
+  }
+  .Email {
+    margin-top: 12px;
+    margin-left: -245px;
+    position: absolute;
+    width: 190px;
+    background-color: rgb(160, 62, 62);
+    padding: 7px;
+    padding-left: 17px;
+    color: rgb(255, 255, 255);
+    border-top-left-radius: 60%;
+    border-bottom-left-radius: 60%;
+    font-size: 10px;
+    margin-left: -225px;
+  }
+  .Birthday {
+    margin-top: 12px;
+    margin-left: -265px;
+    position: absolute;
+    width: 230px;
+    background-color: rgb(160, 62, 62);
+    padding: 7px;
+    padding-left: 17px;
+    color: rgb(255, 255, 255);
+    border-top-left-radius: 60%;
+    border-bottom-left-radius: 60%;
+    font-size: 10px;
+}
+label{
+margin-left: -400px;
+}
+.imagesignin{
+  height: 500px;
+  width: 500px;
+}
+}

@@ -1,0 +1,1458 @@
+.navibarFrontPage {
+    margin-left: -150px;
+    position: absolute;
+    background-color: white;
+    width: 109%;
+    border-bottom: 1px solid;
+    border-color: blue;
+    height: 140px;
+  }
+  
+  .navibarFrontPage.frontPageUl {
+    list-style: none;
+  }
+  .li {
+    list-style: none;
+    text-decoration: none;
+    display: inline-flex;
+    margin-left: 80px;
+    color: blue;
+    background-color: transparent;
+    font-size: x-large;
+    padding: 5px;
+    height: 0px;
+    border-radius: 10%;
+    padding-bottom: 90px;
+    margin-top: -70px;
+  }
+  
+  .Project {
+    margin-left: 320px;
+    color: black;
+    margin-top: 0px;
+    font-size: larger;
+  }
+  .imagenavibarFrontPage {
+    width: 100px;
+    height: 100px;
+    margin-left: 190px;
+    margin-top: 0px;
+    position: absolute;
+    padding-bottom: 0%;
+    list-style: none;
+    background-color: transparent;
+  }
+  a {
+    text-decoration: none;
+    cursor: pointer;
+  }
+  .h5 {
+    color: blue;
+  }
+  .h5:hover {
+    color: grey;
+    font-size: 23px;
+  }
+  .Contact {
+    margin-top: 220px;
+    background-color: grey;
+    height: 400px;
+    width: 50%;
+    margin-left: 00px;
+    position: absolute;
+    cursor: pointer;
+  }
+  .Contact11 {
+    margin-top: 220px;
+    background-color: blue;
+    height: 400px;
+    width: 50%;
+    margin-left: 00px;
+    position: absolute;
+    cursor: pointer;
+  }
+  .Contact111 {
+    margin-top: 220px;
+    background-color: rgb(158, 57, 57);
+    height: 400px;
+    width: 50%;
+    margin-left: 00px;
+    position: absolute;
+    cursor: pointer;
+  }
+  .Contact1111 {
+    margin-top: 220px;
+    background-color: rgb(148, 148, 242);
+    height: 400px;
+    width: 50%;
+    margin-left: 00px;
+    position: absolute;
+    cursor: pointer;
+  }
+  .img123 {
+    margin-top: 220px;
+  
+    height: 400px;
+    width: 50%;
+    right: 00px;
+    position: absolute;
+    cursor: pointer;
+  }
+  hr {
+    width: 450px;
+    color: blue;
+    background-color: blue;
+    height: 3px;
+  }
+  .ourOffices {
+    position: absolute;
+    margin-top: 700px;
+    right: 200px;
+  }
+  .ourOffices h1 {
+    color: rgb(13, 13, 42);
+  }
+  .hr {
+    width: 450px;
+    color: gray;
+    background-color: grey;
+    height: 1px;
+  }
+  h3 {
+    color: blue;
+  }
+  h5 {
+    color: grey;
+    font-size: large;
+  }
+  h6 {
+    color: rgb(121, 121, 237);
+    font-size: large;
+  }
+  .select {
+    position: absolute;
+    margin-top: 700px;
+    left: 100px;
+  }
+  .select h1 {
+    color: rgb(4, 4, 59);
+  }
+  .selectImg {
+    position: absolute;
+    height: 400px;
+    width: 720px;
+    margin-top: 30px;
+  }
+  .Contacts {
+    position: absolute;
+    margin-top: 500px;
+  }
+  .h22 {
+    margin-left: 300px;
+    margin-top: -80px;
+  }
+  .h4 {
+    font-size: large;
+    color: gray;
+  }
+  .h44 {
+    color: gray;
+    margin-left: 300px;
+    margin-top: 0px;
+    font-size: large;
+  }
+  .fastContact {
+    position: absolute;
+    margin-top: 1600px;
+    margin-left: 50px;
+  }
+  .hr1 {
+    margin-left: 1px;
+    height: 2px;
+  }
+  input {
+    height: 50px;
+    width: 400px;
+    margin-left: 10px;
+    margin-top: 30px;
+    border-radius: 10%;
+    font-size: x-large;
+  }
+  #TextArea {
+    position: absolute;
+    margin-top: 120px;
+    left: 0px;
+    height: 200px;
+    width: 700px;
+    padding-left: 40px;
+    font-size: x-large;
+  }
+  #Submit {
+    position: absolute;
+    margin-top: 340px;
+    left: 0px;
+    height: 50px;
+    width: 800px;
+    padding-left: 40px;
+    background-color: blue;
+    color: white;
+    font-size: x-large;
+    border-radius: 0%;
+    cursor: pointer;
+  }
+  #Submit:hover {
+    background-color: gray;
+  }
+  .FastContact {
+    color: blue;
+    margin-top: 30px;
+  }
+  .bodyContact {
+    padding-bottom: 2250px;
+  }
+  .contactH11 {
+    text-align: center;
+    color: white;
+    margin-top: 200px;
+    margin-left: -30px;
+  }
+  .abouth1 {
+    position: absolute;
+    margin-top: 720px;
+    margin-left: 97px;
+    color: rgb(4, 4, 59);
+  }
+  .divAbout {
+    position: absolute;
+    margin-top: 800px;
+    margin-left: 100px;
+    padding-bottom: 100px;
+  }
+  
+  .imageAbout1 {
+    width: 300px;
+    height: 200px;
+    padding-top: 90px;
+    padding-bottom: 110px;
+    border: 1px solid;
+  }
+  .imageAbout1:hover {
+    background-color: rgb(198, 182, 182);
+  }
+  .h3About1 {
+    position: absolute;
+    margin-top: -370px;
+    color: rgb(8, 8, 255);
+    margin-left: 20px;
+    font-size: x-large;
+  }
+  .aAbout1 {
+    position: absolute;
+    margin-top: 335px;
+    margin-left: -280px;
+    font-size: x-large;
+    color: black;
+    border: 1px solid;
+    border-radius: 35%;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-color: blue;
+    color: blueviolet;
+  }
+  .aAbout1:hover {
+    color: white;
+    background-color: rgb(11, 11, 61);
+  }
+  .imageAbout2 {
+    width: 300px;
+    height: 200px;
+    padding-top: 90px;
+    padding-bottom: 110px;
+    border: 1px solid;
+    margin-left: 200px;
+  }
+  .imageAbout2:hover {
+    background-color: rgb(198, 182, 182);
+  }
+  .h3About2 {
+    position: absolute;
+    margin-top: -370px;
+    color: rgb(8, 8, 255);
+    margin-left: 540px;
+    font-size: x-large;
+  }
+  .aAbout2 {
+    position: absolute;
+    margin-top: 335px;
+    margin-left: -270px;
+    font-size: x-large;
+    color: black;
+    border: 1px solid;
+    border-radius: 35%;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-color: blue;
+    color: blueviolet;
+  }
+  .aAbout2:hover {
+    color: white;
+    background-color: rgb(11, 11, 61);
+  }
+  .imageAbout3 {
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    padding-top: 90px;
+    padding-bottom: 110px;
+    border: 1px solid;
+    margin-left: 200px;
+    margin-top: 0px;
+    padding-bottom: 110px;
+  }
+  .imageAbout3:hover {
+    background-color: rgb(198, 182, 182);
+  }
+  .h3About3 {
+    position: absolute;
+    margin-top: -370px;
+    color: rgb(8, 8, 255);
+    margin-left: 1040px;
+    font-size: x-large;
+    width: 200px;
+  }
+  .aAbout3 {
+    position: absolute;
+    margin-top: 330px;
+    margin-left: 230px;
+    font-size: x-large;
+    color: black;
+    border: 1px solid;
+    border-radius: 35%;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-color: blue;
+    color: blueviolet;
+    width: 110px;
+  }
+  .aAbout3:hover {
+    color: white;
+    background-color: rgb(11, 11, 61);
+  }
+  .footer {
+    position: absolute;
+    margin-top: 1280px;
+    background-color: rgb(170, 161, 161);
+    left: 0px;
+    height: 350px;
+    width: 100%;
+  }
+  .footer h3 {
+    color: white;
+    margin-left: 100px;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .footer img {
+    height: 209px;
+    width: 200px;
+    margin-left: 300px;
+    margin-top: -80px;
+  }
+  .footer123 {
+    position: absolute;
+    margin-top: 2240px;
+    background-color: rgb(170, 161, 161);
+    left: 0px;
+    height: 350px;
+    width: 100%;
+  }
+  .footer123 h3 {
+    color: white;
+    margin-left: 100px;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .footer123 img {
+    height: 209px;
+    width: 200px;
+    margin-left: 300px;
+    margin-top: -80px;
+  }
+  .lorem {
+    font-size: 0.9rem;
+    position: absolute;
+    margin-top: 650px;
+    color: rgb(51, 51, 51);
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1500px;
+    margin-left: 10px;
+  }
+  
+  .Sllide1 {
+    position: absolute;
+    margin-top: 0px;
+    height: 400px;
+    width: 100%;
+    
+  }
+  
+  .Slllide1 {
+    position: absolute;
+    margin-top: 0px;
+    height: 400px;
+    width: 100%;
+   
+  }
+  .Slllide2 {
+    position: absolute;
+    margin-top: 0px;
+    height: 400px;
+    width: 100%;
+  
+  }
+  .Slllide3 {
+    position: absolute;
+    margin-top: 0px;
+    height: 400px;
+    width: 100%;
+  
+  }
+  
+  .BackgrundSlide {
+    position: absolute;
+    margin-top: 200px;
+    height: 400px;
+    width: 100%;
+    
+  }
+  .BackgrundSlide.Slide {
+    position: absolute;
+  }
+  
+  .imageSlide {
+    margin-left: 780px;
+    width: 840px;
+    height: 400px;
+  }
+  .Slide {
+    display: none;
+  }
+  
+  .h1Slide {
+    position: absolute;
+    margin-top: -330px;
+    margin-left: 100px;
+    color: white;
+  }
+  .pSlide {
+    position: absolute;
+    margin-top: -280px;
+    width: 600px;
+    margin-left: 100px;
+    color: white;
+    font-size: 19px;
+  }
+  .aSlide {
+    position: absolute;
+    margin-top: -160px;
+  
+    margin-left: 250px;
+    color: blue;
+    background-color: white;
+    font-size: 19px;
+    border-radius: 20%;
+    padding: 15px;
+  }
+  .aSlide:hover {
+    color: white;
+    background-color: gray;
+  }
+  .SlideButtons {
+    display: block;
+    margin-left: 200px;
+    position: absolute;
+  
+    width: 200px;
+  }
+  .buttonSlide1 {
+    width: 20px;
+    height: 20px;
+    background-color: grey;
+    color: transparent;
+    display: inline-flex;
+    position: relative;
+    margin-left: 20px;
+    margin-top: 540px;
+    position: absolute;
+    border-radius: 40px;
+    background-color: white;
+    cursor: pointer;
+    border-color: aqua;
+  }
+  .buttonSlide2 {
+    width: 20px;
+    height: 20px;
+    background-color: grey;
+    color: transparent;
+    display: inline-flex;
+    position: relative;
+    margin-left: 70px;
+    margin-top: 540px;
+    position: absolute;
+    border-radius: 40px;
+    background-color: white;
+    cursor: pointer;
+    border-color: aqua;
+  }
+  .buttonSlide3 {
+    width: 20px;
+    height: 20px;
+    background-color: grey;
+    color: transparent;
+    display: inline-flex;
+    position: relative;
+    margin-left: 115px;
+    margin-top: 540px;
+    position: absolute;
+    border-radius: 40px;
+    background-color: white;
+    cursor: pointer;
+    border-color: aqua;
+  }
+  .buttonSlide4 {
+    width: 20px;
+    height: 20px;
+    background-color: grey;
+    color: transparent;
+    display: inline-flex;
+    position: relative;
+    margin-left: 165px;
+    margin-top: 540px;
+    position: absolute;
+    border-radius: 40px;
+    background-color: white;
+    cursor: pointer;
+    border-color: aqua;
+  }
+  
+  .buttonSlide1:hover {
+    background-color: grey;
+  }
+  .buttonSlide2:hover {
+    background-color: grey;
+  }
+  .buttonSlide3:hover {
+    background-color: grey;
+  }
+  .buttonSlide4:hover {
+    background-color: grey;
+  }
+  .assistedImageDiv {
+    background-color: rgb(47, 47, 248);
+    height: 400px;
+    width: 50%;
+    position: absolute;
+    margin-left: -10px;
+  }
+  .front {
+    overflow: hidden;
+    width: 100%;
+  }
+  .assistedImageDiv2 {
+    background-color: rgb(5, 128, 5);
+  }
+  .assistedImageDiv1 {
+    background-color: rgb(179, 75, 75);
+  }
+  .assistedImageDiv3 {
+    background-color: rgb(187, 124, 5);
+  }
+  .h1Slide1 {
+    width: 300px;
+  }
+  .frontH1 {
+    margin-top: 700px;
+    position: absolute;
+    margin-left: 650px;
+    color: rgb(15, 15, 116);
+  }
+  .imagesAll {
+    position: absolute;
+    margin-top: 800px;
+    margin-left: 250px;
+  }
+  
+  .a11 {
+    position: absolute;
+    height: 400px;
+    width: 330px;
+  }
+  .a22 {
+    position: absolute;
+    height: 400px;
+    width: 330px;
+  }
+  .a33 {
+    position: absolute;
+    height: 400px;
+    width: 330px;
+  }
+  .a44 {
+    position: absolute;
+    height: 400px;
+    width: 330px;
+  }
+  .divh31 {
+    position: absolute;
+    margin-top: 800px;
+    margin-left: 580.5px;
+    border: 1px solid;
+    padding: 20px;
+    padding-right: 18px;
+    font-size: larger;
+    height: 41px;
+    padding-top: 40px;
+    border-bottom: none;
+    cursor: pointer;
+    border-right: none;
+    height: 35px;
+    color: rgb(110, 107, 107);
+  }
+  .divh32 {
+    position: absolute;
+    margin-top: 900px;
+    margin-left: 580.5px;
+    border: 1px solid;
+    padding: 20px;
+    padding-right: 35px;
+    font-size: larger;
+    height: 59px;
+    border-bottom: none;
+    height: 41px;
+    padding-top: 45px;
+    border-right: none;
+    cursor: pointer;
+    height: 35px;
+    color: rgb(110, 107, 107);
+  }
+  .divh33 {
+    position: absolute;
+    margin-top: 1000px;
+    margin-left: 580.5px;
+    border: 1px solid;
+    padding: 20px;
+    padding-top: 45px;
+    padding-right: 42px;
+    height: 41px;
+    font-size: larger;
+    height: 35px;
+    border-bottom: none;
+    border-right: none;
+    cursor: pointer;
+    color: rgb(110, 107, 107);
+  }
+  .divh34 {
+    padding-top: 40px;
+    position: absolute;
+    margin-top: 1100px;
+    margin-left: 580.5px;
+    border: 1px solid;
+    padding: 20px;
+    padding-right: 94px;
+    font-size: larger;
+    border-right: none;
+    height: 57px;
+    cursor: pointer;
+    color: rgb(110, 107, 107);
+  }
+  .divh34:hover {
+    background-color: rgb(33, 33, 74);
+    color: white;
+  }
+  .divh33:hover {
+    background-color: rgb(33, 33, 74);
+    color: white;
+  }
+  .divh32:hover {
+    background-color: rgb(33, 33, 74);
+    color: white;
+  }
+  .divh31:hover {
+    background-color: rgb(33, 33, 74);
+    color: white;
+  }
+  .ch1 {
+    position: absolute;
+    background-color: white;
+    height: 398px;
+    width: 600px;
+    margin-top: 800px;
+    margin-left: 916px;
+    border: 1px solid;
+    width: 400px;
+  }
+  .ch1 h2 {
+    margin-top: 50px;
+    margin-left: 40px;
+    color: rgb(4, 4, 13);
+  }
+  .ch1 h4 {
+    margin-top: 70px;
+    font-size: large;
+    margin-left: 40px;
+    color: blue;
+  }
+  .ch1 a {
+    position: absolute;
+    text-decoration: none;
+    font-size: x-large;
+    border-radius: 34%;
+    margin-left: 180px;
+    margin-top: 60px;
+    background-color: blue;
+    color: white;
+    padding: 15px;
+  }
+  .ch1 a:hover {
+    background-color: gray;
+    color: white;
+  }
+  .ch2 {
+    position: absolute;
+    background-color: white;
+    height: 398px;
+    width: 600px;
+    margin-top: 800px;
+    margin-left: 916px;
+    border: 1px solid;
+    width: 400px;
+  }
+  .ch2 h2 {
+    margin-top: 50px;
+    margin-left: 40px;
+    color: goldenrod;
+  }
+  .ch2 h4 {
+    margin-top: 70px;
+    font-size: large;
+  
+    margin-left: 40px;
+    color: blue;
+  }
+  .ch2 a {
+    position: absolute;
+    text-decoration: none;
+    font-size: x-large;
+    border-radius: 34%;
+    margin-left: 180px;
+    margin-top: 60px;
+    background-color: blue;
+    color: white;
+    padding: 15px;
+  }
+  .ch2 a:hover {
+    background-color: gray;
+    color: white;
+  }
+  .ch3 {
+    position: absolute;
+    background-color: white;
+    height: 398px;
+    width: 600px;
+    margin-top: 800px;
+    border: 1px solid;
+    width: 400px;
+    margin-left: 916px;
+  }
+  .ch3 h2 {
+    margin-top: 50px;
+    margin-left: 40px;
+  
+    color: green;
+  }
+  .ch3 h4 {
+    margin-top: 70px;
+    font-size: large;
+  
+    margin-left: 40px;
+    color: blue;
+  }
+  .ch3 a {
+    position: absolute;
+    text-decoration: none;
+    font-size: x-large;
+    border-radius: 34%;
+    margin-left: 180px;
+    margin-top: 60px;
+    background-color: blue;
+    color: white;
+    padding: 15px;
+  }
+  .ch3 a:hover {
+    background-color: gray;
+    color: white;
+  }
+  .ch4 {
+    position: absolute;
+    background-color: white;
+    height: 398px;
+    width: 600px;
+    margin-top: 800px;
+    margin-left: 916px;
+    border: 1px solid;
+    width: 400px;
+  }
+  .ch4 h2 {
+    margin-top: 50px;
+    margin-left: 40px;
+    color: red;
+  }
+  .ch4 h4 {
+    margin-top: 70px;
+  
+    font-size: large;
+    margin-left: 40px;
+    color: blue;
+  }
+  .ch4 a {
+    position: absolute;
+    text-decoration: none;
+    font-size: x-large;
+    border-radius: 34%;
+    margin-left: 180px;
+    margin-top: 60px;
+    background-color: blue;
+    color: white;
+    padding: 15px;
+    border-color: blue;
+  }
+  .ch4 a:hover {
+    background-color: gray;
+    color: white;
+  }
+  .Contact71 {
+    margin-top: 1370px;
+    background-color: rgb(167, 164, 164);
+    height: 400px;
+    width: 50%;
+    margin-left: 00px;
+    position: absolute;
+    cursor: pointer;
+    color: white;
+  }
+  .img723 {
+    margin-top: 1370px;
+    background-color: rgb(167, 164, 164);
+    height: 400px;
+    width: 50%;
+    margin-left: 780px;
+    position: absolute;
+    cursor: pointer;
+    color: white;
+  }
+  .FindCard {
+    position: absolute;
+    margin-top: 1890px;
+    background-color: brown;
+    height: 650px;
+    width: 100%;
+    text-align: center;
+    color: white;
+    padding-top: 60px;
+  }
+  .find {
+    padding-top: 50px;
+    display: inline;
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    margin-top: 2150px;
+    margin-left: 300px;
+    padding-bottom: 100px;
+    cursor: pointer;
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+  .find1 {
+    padding-top: 50px;
+    display: inline;
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    margin-top: 2150px;
+    cursor: pointer;
+    margin-left: 700px;
+    padding-bottom: 100px;
+  
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+  .find2 {
+    padding-top: 50px;
+    display: inline;
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    margin-top: 2150px;
+    margin-left: 1200px;
+    padding-bottom: 100px;
+    cursor: pointer;
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+  .find:hover {
+    background-color: white;
+  }
+  .find1:hover {
+    background-color: white;
+  }
+  .find2:hover {
+    background-color: white;
+  }
+  .footerfront {
+    position: absolute;
+    margin-top: 2720px;
+    background-color: rgb(170, 161, 161);
+    left: 0px;
+    height: 350px;
+    width: 100%;
+  }
+  .footerfront h3 {
+    color: white;
+    margin-left: 100px;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .footerfront img {
+    height: 209px;
+    width: 200px;
+    margin-left: 300px;
+    margin-top: -80px;
+  }
+  .imageSlid1 {
+    display: none;
+  }
+  .hiddenDiv1 {
+    display: none;
+  }
+  @media (max-width: 1450px) {
+    .navibarFrontPage {
+      margin-left: -150px;
+      position: absolute;
+      background-color: white;
+      width: 109%;
+      border-bottom: 1px solid;
+      border-color: blue;
+      height: 140px;
+    }
+    
+    .navibarFrontPage.frontPageUl {
+      list-style: none;
+    }
+    .li {
+      list-style: none;
+      text-decoration: none;
+      display: inline-flex;
+      margin-left: 40px;
+      color: blue;
+      background-color: transparent;
+      font-size: x-large;
+      padding: 5px;
+      height: 0px;
+      border-radius: 10%;
+      padding-bottom: 90px;
+      margin-top: -70px;
+    }
+    
+    .Project {
+      margin-left: 320px;
+      color: black;
+      margin-top: 0px;
+      font-size: larger;
+    }
+    .imagenavibarFrontPage {
+      width: 100px;
+      height: 100px;
+      margin-left: 190px;
+      margin-top: 0px;
+      position: absolute;
+      padding-bottom: 0%;
+      list-style: none;
+      background-color: transparent;
+    }
+    a {
+      text-decoration: none;
+      cursor: pointer;
+      font-size:10px ;
+    }
+    .h5 {
+      color: blue;
+      font-size:13px ;
+    }
+    .h5:hover {
+      color: grey;
+      font-size: 23px;
+    }
+    .footer123 {
+      position: absolute;
+      margin-top: 2720px;
+      background-color: rgb(170, 161, 161);
+      left: 0px;
+      height: 350px;
+      width: 100%;
+    }
+    .footer123 h3 {
+      color: white;
+      margin-left: 40px;
+      margin-top: 100px;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    .footer123 img {
+      height: 225px;
+      width: 200px;
+      margin-left: 200px;
+      margin-top: -80px;
+    }
+    .footer {
+      position: absolute;
+      margin-top: 1300px;
+      background-color: rgb(170, 161, 161);
+      left: 0px;
+      height: 350px;
+      width: 100%;
+    
+    }
+    .footer h3 {
+      color: white;
+      margin-left: 30px;
+      margin-top: 100px;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    .footer img {
+      height: 225px;
+      width: 200px;
+      margin-left: 200px;
+      margin-top: -80px;
+    }
+    .lorem{
+      width: 95%;
+      }
+      }
+.selectImg{
+  margin-left: -50px;
+  width: 750px;
+}
+@media (max-width: 1150px){
+  .navibarFrontPage {
+    margin-left: -150px;
+    position: absolute;
+    background-color: white;
+    width: 109%;
+    border-bottom: 1px solid;
+    border-color: blue;
+    height: 140px;
+  }
+  
+  .navibarFrontPage.frontPageUl {
+    list-style: none;
+  }
+  .li {
+    list-style: none;
+    text-decoration: none;
+    display: inline-flex;
+    margin-left: 40px;
+    color: blue;
+    background-color: transparent;
+    font-size: x-large;
+    padding: 5px;
+    height: 0px;
+    border-radius: 10%;
+    padding-bottom: 90px;
+    margin-top: -70px;
+  }
+  
+  .Project {
+    margin-left: 320px;
+    color: black;
+    margin-top: 30px;
+    font-size: small;
+  }
+  .imagenavibarFrontPage {
+    width: 50px;
+    height: 50px;
+    margin-left: 190px;
+    margin-top: 50px;
+    position: absolute;
+    padding-bottom: 0%;
+    list-style: none;
+    background-color: transparent;
+  }
+  a {
+    text-decoration: none;
+    cursor: pointer;
+    font-size:10px ;
+  }
+  .h5 {
+    color: blue;
+    font-size:8px ;
+  }
+  .h5:hover {
+    color: grey;
+    font-size: 23px;
+  }
+  .footer123 {
+    position: absolute;
+    margin-top: 2720px;
+    background-color: rgb(170, 161, 161);
+    left: 0px;
+    height: 350px;
+    width: 100%;
+  }
+  .footer123 h3 {
+    color: white;
+    margin-left: 40px;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .footer123 img {
+    height: 225px;
+    width: 200px;
+    margin-left: 200px;
+    margin-top: -80px;
+  }
+  .footer {
+    position: absolute;
+    margin-top: 1250px;
+    background-color: rgb(170, 161, 161);
+    left: 0px;
+    height: 350px;
+    width: 100%;
+  
+  }
+  .footer h3 {
+    color: white;
+    margin-left: 30px;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .footer img {
+    height: 180px;
+    width: 180px;
+    margin-left: 150px;
+    margin-top: -80px;
+  }
+  .imagesignin{
+ height: 90%;
+ width: 60%;
+  }
+  .signin1{
+    margin-left: 800px;
+    font-size: 15px;
+    width:34%
+  }
+  input {
+    margin-top: 10px;
+    height: 30px;
+    margin-bottom: 10px;
+    border-radius: 20%;
+    padding-left: -120px;
+    border-color: goldenrod;
+    margin-left: -420px ;
+  }
+  .submitLogIn {
+    font-size: xx-large;
+    border: none;
+    background-color: rgb(221, 162, 13);
+    color: white;
+    margin-top: 25px;
+    width: 180px;
+    padding-bottom: 50px;
+    cursor: pointer;
+    padding-right: 20px;
+    padding-top: 10px;
+  }
+  .submitLogIn:hover {
+    background-color: blue;
+  }
+  .signin1 {
+    position: absolute;
+  font-size: 15px;
+    margin-left: 600px;
+    width: 350px;
+    color: white;
+    background-color: rgb(211, 121, 121);
+    padding: 20px;
+    top: 0px;
+  }
+  .imagesignin {
+    position: absolute;
+    left: 40px;
+    top: 180px;
+    height: 580px;
+    width: 850px;
+  }
+
+  .image {
+    width: 120px;
+    height: 100px;
+    margin-left: 650px;
+    margin-top: -157px;
+    position: absolute;
+  }
+  .Name {
+    margin-top: 12px;
+    margin-left: -215px;
+    position: absolute;
+    width: 190px;
+    background-color: rgb(160, 62, 62);
+    padding: 7px;
+    padding-left: 17px;
+    color: rgb(255, 255, 255);
+    border-top-left-radius: 60%;
+    border-bottom-left-radius: 60%;
+  }
+  .Psw {
+    position: absolute;
+    width: 230px;
+    background-color: rgb(160, 62, 62);
+    padding: 7px;
+    padding-left: 27px;
+    color: rgb(255, 255, 255);
+    border-top-left-radius: 60%;
+    border-bottom-left-radius: 60%;
+    margin-top: 12px;
+    margin-left: -214px;
+  }
+  .Email {
+    margin-top: 12px;
+    margin-left: -215px;
+    position: absolute;
+    width: 190px;
+    background-color: rgb(160, 62, 62);
+    padding: 7px;
+    padding-left: 17px;
+    color: rgb(255, 255, 255);
+    border-top-left-radius: 60%;
+    border-bottom-left-radius: 60%;
+  }
+  .Birthday {
+    margin-top: 12px;
+    margin-left: -235px;
+    position: absolute;
+    width: 230px;
+    background-color: rgb(160, 62, 62);
+    padding: 7px;
+    padding-left: 17px;
+    color: rgb(255, 255, 255);
+    border-top-left-radius: 60%;
+    border-bottom-left-radius: 60%;
+}
+label{
+margin-left: -400px;
+}
+.imagesignin{
+  height: 500px;
+  width: 500px;
+}
+.lorem{
+  width: 95%;
+  }
+  }
+
+@media (max-width: 1050px) {
+  .Project {
+    margin-left: 320px;
+    color: black;
+    margin-top: 30px;
+    font-size: small;
+  }
+  .imagenavibarFrontPage {
+    width: 50px;
+    height: 50px;
+    margin-left: 190px;
+    margin-top: 50px;
+    position: absolute;
+    padding-bottom: 0%;
+    list-style: none;
+    background-color: transparent;
+  }
+  a {
+    text-decoration: none;
+    cursor: pointer;
+    font-size:10px ;
+  }
+  .h5 {
+    color: blue;
+    font-size:8px ;
+  }
+  .h5:hover {
+    color: grey;
+    font-size: 23px;
+  }
+  .footer123 {
+    position: absolute;
+    margin-top: 2720px;
+    background-color: rgb(170, 161, 161);
+    left: 0px;
+    height: 350px;
+    width: 100%;
+  }
+  .footer123 h3 {
+    color: white;
+    margin-left: 40px;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .footer123 img {
+    height: 225px;
+    width: 200px;
+    margin-left: 200px;
+    margin-top: -80px;
+  }
+  .footer {
+    position: absolute;
+    margin-top: 1400px;
+    background-color: rgb(170, 161, 161);
+    left: 0px;
+    height: 350px;
+    width: 100%;
+  
+  }
+  .footer h3 {
+    color: white;
+    margin-left: 30px;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .footer img {
+    height: 180px;
+    width: 150px;
+    margin-left: 150px;
+    margin-top: -80px;
+  }
+  .imagesignin{
+ height: 90%;
+ width: 60%;
+  }
+  .signin1{
+    margin-left: 800px;
+    font-size: 15px;
+    width:34%
+  }
+  input {
+    margin-top: 10px;
+    height: 30px;
+    margin-bottom: 10px;
+    border-radius: 20%;
+    padding-left: -120px;
+    border-color: goldenrod;
+    margin-left: -420px ;
+  }
+  .submitLogIn {
+    font-size: xx-large;
+    border: none;
+    background-color: rgb(221, 162, 13);
+    color: white;
+    margin-top: 25px;
+    width: 180px;
+    padding-bottom: 50px;
+    cursor: pointer;
+    padding-right: 20px;
+    padding-top: 10px;
+  }
+  .submitLogIn:hover {
+    background-color: blue;
+  }
+  .signin1 {
+    position: absolute;
+  font-size: 15px;
+    margin-left: 600px;
+    width: 350px;
+    color: white;
+    background-color: rgb(211, 121, 121);
+    padding: 20px;
+    top: 0px;
+  }
+  .imagesignin {
+    position: absolute;
+    left: 40px;
+    top: 180px;
+    height: 580px;
+    width: 850px;
+  }
+
+  .image {
+    width: 120px;
+    height: 100px;
+    margin-left: 650px;
+    margin-top: -157px;
+    position: absolute;
+  }
+  .Name {
+    margin-top: 12px;
+    margin-left: -225px;
+    position: absolute;
+    width: 180px;
+    background-color: rgb(160, 62, 62);
+    padding: 7px;
+    padding-left: 17px;
+    color: rgb(255, 255, 255);
+    border-top-left-radius: 60%;
+    border-bottom-left-radius: 60%;
+    font-size: 10px;
+  }
+  .Psw {
+    position: absolute;
+    width: 230px;
+    background-color: rgb(160, 62, 62);
+    padding: 7px;
+    padding-left: 27px;
+    color: rgb(255, 255, 255);
+    border-top-left-radius: 60%;
+    border-bottom-left-radius: 60%;
+    margin-top: 12px;
+    margin-left: -225px;
+    font-size: 10px;
+  }
+  .Email {
+    margin-top: 12px;
+    margin-left: -245px;
+    position: absolute;
+    width: 190px;
+    background-color: rgb(160, 62, 62);
+    padding: 7px;
+    padding-left: 17px;
+    color: rgb(255, 255, 255);
+    border-top-left-radius: 60%;
+    border-bottom-left-radius: 60%;
+    font-size: 10px;
+    margin-left: -225px;
+  }
+  .Birthday {
+    margin-top: 12px;
+    margin-left: -265px;
+    position: absolute;
+    width: 230px;
+    background-color: rgb(160, 62, 62);
+    padding: 7px;
+    padding-left: 17px;
+    color: rgb(255, 255, 255);
+    border-top-left-radius: 60%;
+    border-bottom-left-radius: 60%;
+    font-size: 10px;
+}
+label{
+margin-left: -400px;
+}
+.imagesignin{
+  height: 500px;
+  width: 500px;
+}
+.lorem{
+width: 95%;
+}
+
+}

@@ -1,0 +1,2018 @@
+div.nav{
+   margin-top: -20px;
+   background-color: rgb(65, 64, 64);
+   height: 50px;
+   margin-right: 20%;
+}
+div ul{
+   padding-top: 15px;
+   margin-left: 25%;
+}
+div ul li{
+   display: inline;
+   font-size:100%;
+   color: rgb(223, 211, 211);
+   margin-left: 30px;
+}
+div ul li a{
+   text-decoration: none;
+   color: rgb(219, 215, 215);
+}
+div ul li a:hover{
+   color: white;
+   border-bottom: 4px solid yellow;
+}
+.search{
+   position: absolute;
+   left: 76.5%;
+   top:0px;
+   height: 105px;
+   width:13%
+
+
+}
+.search input{
+   height: 41px;
+   padding-left: 70px;
+ font-size: 15px;
+
+}
+.fa-search{
+  position: absolute;
+  top: 15px;
+  left: 78.5%;
+  font-size: 20px;
+}
+.br{
+   position: absolute;
+   background-color: rgb(255, 0, 0);
+   width: 150px;
+   left: 80%;
+   margin-top: -10px;
+   
+}
+.ulNav2{
+   margin-top: 50px;
+   margin-right: 15%;
+}
+.liNav2{
+   color: rgb(7, 7, 7);
+   font-size: 18px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.aNav2{
+   color: rgb(7, 7, 7);
+   font-size: 18px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   border-bottom: 0px;
+   transition: all 0.5s linear;
+}
+.aNav2:hover{
+   border-bottom: 4px solid yellow;
+   color: rgb(7, 7, 7);
+}
+.imageBank{
+   width: 60px;
+   height: 100px;
+   position: absolute;
+ left: 50px;
+ top: 50px;
+}
+.liImg{
+   position: absolute;
+ left: 125px;
+ margin-top: -85px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ text-decoration: none;
+ list-style: none;
+ font-size: 18px;
+
+}
+.h6Nav2{
+   position: absolute;
+   left: 125px;
+   margin-top: -30px;
+   color: rgb(90, 89, 89);
+   
+}
+.divProject{
+   position: absolute;
+   background-color: yellow;
+   height: 120px;
+   left:76.4%;
+   text-align: center;
+   width: 14.1%;
+   top:50px;
+   color: rgb(3, 3, 3);
+   font-size: 10px;
+   
+}
+.h1Project{
+   margin-top: 35px;
+   margin-left: -4%;
+}
+
+ 
+ .BackgrundSlide {
+   position: absolute;
+   margin-top: 13px;
+   height: 2345px;
+   width: 90%;
+   overflow: hidden;
+   
+ }
+ .BackgrundSlide.Slide {
+   position: absolute;
+ }
+ 
+ .imageSlide {
+   margin-left: 45.5%;
+   width: 54.2%;
+   height: 25rem;
+ }
+
+ 
+ .h1Slide {
+   position: absolute;
+   margin-top: -330px;
+   margin-left: 5.7%;
+   color: white;
+ }
+
+ .pSlide {
+   position: absolute;
+   margin-top: -280px;
+   width: 29%;
+   margin-left: 5.7%;
+   color: white;
+   font-size: 19px;
+ }
+ .aSlide {
+   position: absolute;
+   margin-top: 258px;
+   left: 17%;
+   color: blue;
+   background-color: white;
+   font-size: 19px;
+   border-radius: 20%;
+   padding: 15px;
+   text-decoration: none;
+ }
+ .aSlide:hover {
+   color: white;
+   background-color: gray;
+ }
+ 
+ .assistedImageDiv {
+   background-color: rgb(47, 47, 248);
+   height: 400px;
+   width: 46%;
+   position: absolute;
+   margin-left: 0px;
+ }
+ 
+ .assistedImageDiv2 {
+   background-color: rgb(5, 128, 5);
+ }
+ .assistedImageDiv1 {
+   background-color: rgb(179, 75, 75);
+ }
+ .assistedImageDiv3 {
+   background-color: rgb(187, 124, 5);
+ }
+ .h1Slide1 {
+   width: 300px;
+ }
+ .Slide2{
+   position: absolute;
+   margin-top: -405px;
+   height: 460px;
+   width: 100%;
+   transform: translateX(100%);
+   transition: all 0.8s linear;
+
+ }
+ .Slide3{
+   transform: translateX(100%);
+   position: absolute;
+   margin-top: -400px;
+   height: 400px;
+   width: 100%;
+   transform: translateX(100%);
+   transition: all 0.8s linear;
+ }
+ .Slide4{
+   
+   position: absolute;
+   margin-top: -400px;
+   height: 400px;
+   width: 100%;
+   transform: translateX(100%);
+   transition: all 0.8s linear;
+ }
+ .Slide{
+  transition: all 0.5s linear;
+ }
+ .button{
+   margin-left: 4%;
+   width: 11%;
+   height: 6.2%;
+   color: transparent;
+   cursor:pointer;
+   display: inline;
+
+
+ }
+ .buttonDiv{
+   margin-top:-50px;
+   position: absolute;
+   margin-left: 4%;
+   width: 40%;
+   height: 10%;
+ }
+ .ProjectOnChild{
+  position: absolute;
+  left: 84%;
+  top: 0px;
+  width: 16%;
+background-color: white;
+border-left: 1px;
+border-right: 1px;
+ }
+ .ProjectChild{
+display: none;
+
+}
+.ProjectOnChild a{
+  text-decoration: none;
+  cursor: pointer;
+
+ 
+}
+.firstChild{
+  color: black;
+  margin-left: 37.5%;
+ 
+}
+.lastChild{
+  color: black;
+  margin-left: 1px;
+
+}
+.navibarFrontPage {
+  margin-left: -150px;
+  position: absolute;
+  background-color: white;
+  width: 109%;
+  border-bottom: 1px solid;
+  border-color: blue;
+  height: 140px;
+}
+
+.navibarFrontPage.frontPageUl {
+  list-style: none;
+}
+.li {
+  list-style: none;
+  text-decoration: none;
+  display: inline-flex;
+  margin-left: 80px;
+  color: blue;
+  background-color: transparent;
+  font-size: x-large;
+  padding: 5px;
+  height: 0px;
+  border-radius: 10%;
+  padding-bottom: 90px;
+  margin-top: -70px;
+}
+
+.Project {
+  margin-left: 320px;
+  color: black;
+  margin-top: 0px;
+  font-size: larger;
+}
+.imagenavibarFrontPage {
+  width: 100px;
+  height: 100px;
+  margin-left: 190px;
+  margin-top: 0px;
+  position: absolute;
+  padding-bottom: 0%;
+  list-style: none;
+  background-color: transparent;
+}
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
+.h5 {
+  color: blue;
+}
+.h5:hover {
+  color: grey;
+  font-size: 23px;
+}
+.divPlans{
+  position: absolute;
+  margin-top: -520px;
+  background-color: white;
+  height: 499px;
+  width: 100%;
+}
+.divPlans img{
+ height: 300px;
+ width: 350px;
+}
+.divPlans h3{
+ margin-top: 340px;
+ margin-left: 10px;
+ position: absolute;
+ width: 350px;
+ height: 50px;
+ font-size: 0.8rem;
+ font-weight: 1px;
+ color:rgb(53, 51, 51);
+ font-family:sans-serif
+}
+.divPlans ul  {
+margin-left: 180px;
+margin-top: 0px;
+display: inline-block;
+
+}
+.divPlans ul li {
+  
+margin-left: 140px;
+margin-top: 10px;
+display: block;
+}
+.divPlans ul li a {
+  color:rgb(65, 60, 60);
+  margin-left: 30px;
+  
+  }
+.divPlans ul li a:hover {
+  color:rgb(65, 60, 60);
+  
+  }
+  .divPlans .h4 {
+  font-size: larger;
+ position: absolute;
+ margin-left: 170px;
+ margin-top: -20px;
+  }
+  .li1{
+    margin-top: 0px;
+  margin-left: -400px;
+  }
+  .h42{
+    margin-left: 190px;
+    margin-top: 30px;
+    font-size: larger;
+  }
+  .digitalDiv{
+    margin-top: -400px;
+    position: absolute;
+  }
+  .h41{
+   margin-left: 170px;
+   font-size: larger;
+  }
+
+.SecuredDiv{
+margin-left: 1250px;
+margin-top: -150px;
+}
+.ulSavings{
+  margin-top:-500px;
+  
+}
+.divPlansb ul{
+  margin-left: -100px;
+}
+.divPlans1{
+  display: none;
+}
+.divPlans2{
+  display: none;
+}
+.SecuredLoans{
+  margin-left: 80px;
+}
+.imagesAll{
+  position: absolute;
+  margin-top: 0px;
+}
+.imageAllChild{
+  height: 250px;
+  width: 33.1%;
+}
+.imagesDiv{
+  position: absolute;
+  margin-top: -254px;
+  height: 250px;
+  width: 100%;
+}
+.imagesDivChild{
+  background-color: yellow;
+  height: 250px;
+  width: 33.1%;
+  display: inline-block ;
+  cursor: pointer;
+  opacity: 0;
+  transition: all 0.5s linear;
+}
+.imagesDivChild:hover{
+  opacity:1 ;
+}
+.imagesDivChild h1{
+  margin-top: 80px;
+  font-size: larger;
+  margin-left: 200px;
+}
+.Lorem{
+  width: 500px;
+  margin-top: 40px;
+  margin-left: 30px;
+  position: absolute;
+  font-size: 1.0rem;
+  color:rgb(65, 60, 60)
+ 
+}
+.imagesDivChild1{
+ top: -0px;
+}
+.BookingDiv{
+  margin-top: 130px;
+  width: 55%;
+}
+.BookingDiv h1{
+  margin-top: 80px;
+  margin-left: 7%;
+  color: red;
+}
+.BookingDiv img{
+max-height: 30%;
+width: 50%;
+margin-left: 60px;
+cursor: pointer;
+transition: all 1s linear;
+
+}
+.BookingDiv img:hover{
+width: 65%;
+}
+
+.NewsDiv{
+  position: absolute;
+  margin-left: 55%;
+  margin-top: -22%;
+  width: 1500%;
+  max-height: 30%;
+}
+.NewsDiv h4{
+  color: dimgrey;
+  margin-top: 32px;
+}
+.NewsDiv h3{
+ margin-top: 20px;
+ color: green;
+}
+
+  .footer {
+    position: absolute;
+    margin-top: -80px;
+    background-color: rgb(170, 161, 161);
+    height: 290px;
+    width: 100%;
+ 
+  }
+  .footer h3 {
+    color: white;
+    margin-left: 5%;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .footer img {
+    height: 55%;
+    width: 18%;
+    margin-left: 13%;
+    margin-top: -80px;
+  }
+  
+@import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,700&display=swap");
+:root {
+  /* dark shades of primary color*/
+  --clr-primary-1: hsl(205, 86%, 17%);
+  --clr-primary-2: hsl(205, 77%, 27%);
+  --clr-primary-3: hsl(205, 72%, 37%);
+  --clr-primary-4: hsl(205, 63%, 48%);
+  /* primary/main color */
+  --clr-primary-5: hsl(205, 78%, 60%);
+  /* lighter shades of primary color */
+  --clr-primary-6: hsl(205, 89%, 70%);
+  --clr-primary-7: hsl(205, 90%, 76%);
+  --clr-primary-8: hsl(205, 86%, 81%);
+  --clr-primary-9: hsl(205, 90%, 88%);
+  --clr-primary-10: hsl(205, 100%, 96%);
+  /* darkest grey - used for headings */
+  --clr-grey-1: hsl(209, 61%, 16%);
+  --clr-grey-2: hsl(211, 39%, 23%);
+  --clr-grey-3: hsl(209, 34%, 30%);
+  --clr-grey-4: hsl(209, 28%, 39%);
+  /* grey used for paragraphs */
+  --clr-grey-5: hsl(210, 22%, 49%);
+  --clr-grey-6: hsl(209, 23%, 60%);
+  --clr-grey-7: hsl(211, 27%, 70%);
+  --clr-grey-8: hsl(210, 31%, 80%);
+  --clr-grey-9: hsl(212, 33%, 89%);
+  --clr-grey-10: hsl(210, 36%, 96%);
+  --clr-white: #fff;
+  --clr-red-dark: hsl(360, 67%, 44%);
+  --clr-red-light: hsl(360, 71%, 66%);
+  --clr-green-dark: hsl(125, 67%, 44%);
+  --clr-green-light: hsl(125, 71%, 66%);
+  --clr-black: #222;
+  --ff-primary: "Roboto", sans-serif;
+  --ff-secondary: "Open Sans", sans-serif;
+  --transition: all 0.3s linear;
+  --spacing: 0.1rem;
+  --radius: 0.25rem;
+  --light-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  --dark-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  --max-width: 1170px;
+  --fixed-width: 620px;
+}
+/*
+=============== 
+Global Styles
+===============
+*/
+
+
+
+
+
+/*  global classes */
+
+/* section */
+.section {
+  padding: 5rem 0;
+}
+
+.section-center {
+  width: 90vw;
+  margin: 0 auto;
+  max-width: 1170px;
+}
+@media screen and (min-width: 992px) {
+  .section-center {
+    width: 95vw;
+  }
+}
+main {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+}
+
+/*
+=============== 
+Reviews
+===============
+*/
+main {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+}
+.title {
+  text-align: center;
+  margin-bottom: 4rem;
+}
+.underline {
+  height: 0.25rem;
+  width: 5rem;
+  background: var(--clr-primary-5);
+  margin-left: auto;
+  margin-right: auto;
+}
+.container {
+  width: 80vw;
+  max-width: var(--fixed-width);
+}
+.review {
+  background: var(--clr-white);
+  padding: 1.5rem 2rem;
+  border-radius: var(--radius);
+  box-shadow: var(--light-shadow);
+  transition: var(--transition);
+  text-align: center;
+}
+.review:hover {
+  box-shadow: var(--dark-shadow);
+}
+.img-container {
+  position: relative;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin: 0 auto;
+  margin-bottom: 1.5rem;
+}
+#person-img {
+  width: 100%;
+  display: block;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  position: relative;
+}
+.img-container::after {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f10e";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2.5rem;
+  height: 2.5rem;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  transform: translateY(25%);
+  background: var(--clr-primary-5);
+  color: var(--clr-white);
+}
+.img-container::before {
+  content: "";
+  width: 100%;
+  height: 100%;
+  background: var(--clr-primary-5);
+  position: absolute;
+  top: -0.25rem;
+  right: -0.5rem;
+  border-radius: 50%;
+}
+#author {
+  margin-bottom: 0.25rem;
+}
+#job {
+  margin-bottom: 0.5rem;
+  text-transform: uppercase;
+  color: var(--clr-primary-5);
+  font-size: 0.85rem;
+}
+#info {
+  margin-bottom: 0.75rem;
+}
+.prev-btn,
+.next-btn {
+  color: var(--clr-primary-7);
+  font-size: 1.25rem;
+  background: transparent;
+  border-color: transparent;
+  margin: 0 0.5rem;
+  transition: var(--transition);
+  cursor: pointer;
+}
+.prev-btn:hover,
+.next-btn:hover {
+  color: var(--clr-primary-5);
+}
+.random-btn {
+  margin-top: 0.5rem;
+  background: var(--clr-primary-10);
+  color: var(--clr-primary-5);
+  padding: 0.25rem 0.5rem;
+  text-transform: capitalize;
+  border-radius: var(--radius);
+  transition: var(--transition);
+  border-color: var(--clr-primary-5);
+  cursor: pointer;
+}
+.random-btn:hover {
+  background: var(--clr-primary-5);
+  color: var(--clr-primary-1);
+}
+.Savings{
+  margin-top: -130px;
+  margin-left: 300px;
+  position: absolute;
+  color: green;
+}
+@media (max-width: 1800px) {
+ .search input{
+    position: absolute;
+    left: 0.5%;
+    top:0px;
+    height: 42px;
+    width:185px;
+    padding-left: 50px;
+ }
+ .BackgrundSlide {
+  position: absolute;
+  margin-top: 13px;
+  height: 2228px;
+  width: 90%;
+  overflow: hidden;
+ }
+ div.nav{
+  margin-top: -20px;
+  background-color: rgb(65, 64, 64);
+  height: 50px;
+  margin-right: 22.5%;
+}
+.imagesDivChild div{
+  margin-top: 40px;
+  font-size:17px;
+  margin-left: 20px;
+  width: 390px;
+  height: 80px;
+}
+}
+.imagesDivChild h1{
+  margin-top: 50px;
+  margin-left: 125px;
+  font-size:17px;
+}
+  .fa-search{
+    position: absolute;
+    top: 15px;
+    left: 77.5%;
+    font-size: 20px;
+  }
+  .br{
+     position: absolute;
+     background-color: gray;
+     left: 79%;
+     margin-top: -10px;
+   }
+
+@media (max-width: 1300px) {
+    .search{
+      position: absolute;
+      left: 76.5%;
+      top:0px;
+      height: 105px;
+      width:0px;
+      padding-bottom: 20px;
+   }
+    .search input{
+      position: absolute;
+      left: 76.5%;
+      top:0px;
+      height: 42px;
+      width:85px;
+      padding-left: 50px;
+   }
+   .BackgrundSlide {
+    position: absolute;
+    margin-top: 13px;
+    height: 1820px;
+    width: 90%;
+    overflow: hidden;
+   }
+   div.nav{
+    margin-top: -20px;
+    background-color: rgb(65, 64, 64);
+    height: 50px;
+    margin-right: 20%;
+  }
+  div ul{
+    padding-top: 15px;
+    margin-left: 10%;
+  }
+  div ul li{
+    display: inline;
+    font-size:100%;
+    color: rgb(223, 211, 211);
+    margin-left: 30px;
+  }
+  div ul li a{
+    text-decoration: none;
+    color: rgb(219, 215, 215);
+    font-size: 11px;
+  }
+  .BookingDiv{
+    margin-top: 130px;
+    width: 55%;
+  }
+  .BookingDiv h1{
+    margin-top: 80px;
+    margin-left: 13%;
+    font-size: 20px;
+    color: red;
+  }
+  .BookingDiv img{
+  max-height: 30%;
+  width: 50%;
+  margin-left: 60px;
+  cursor: pointer;
+  transition: all 1s linear;
+  
+  }
+  .BookingDiv img:hover{
+  width: 65%;
+  }
+  
+  .NewsDiv{
+    position: absolute;
+    margin-left: 54%;
+    margin-top: -26%;
+    width: 150%;
+    max-height: 400px
+  }
+  .NewsDiv h4{
+    color: dimgrey;
+    margin-top: 32px;
+    font-size: 8px;
+  }
+  .NewsDiv h3{
+   margin-top: 20px;
+   color: green;
+   font-size: 10px;
+  }
+  .NewsDiv {
+   font-size:7px;
+  
+  }
+   .footer {
+      position: absolute;
+      margin-top: 40px;
+      background-color: rgb(170, 161, 161);
+      height: 200px;
+      width: 100%;
+   
+    }
+    .footer h3 {
+      color: white;
+      margin-left: 3.9%;
+      margin-top: 100px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 10px;
+    }
+    .footer img {
+      height: 45%;
+      width: 15%;
+      margin-left: 17%;
+      margin-top: -280px;
+    }
+    .imagesAll{
+      position: absolute;
+      margin-top: 0px;
+    }
+    .imageAllChild{
+      height: 250px;
+      width: 32.9%;
+    }
+    .imagesDiv{
+      position: absolute;
+      margin-top: -254px;
+      height: 250px;
+      width: 100%;
+    }
+    .imagesDivChild{
+      background-color: yellow;
+      height: 250px;
+      width: 32.9%;
+      display: inline-block ;
+      cursor: pointer;
+      opacity: 0;
+      transition: all 0.5s linear;
+    }
+    .imagesDivChild:hover{
+      opacity:1 ;
+    }
+    .imagesDivChild h1{
+      margin-top: 80px;
+      font-size: small;
+      margin-left: 200px;
+      margin-left: 45px;
+    }
+    
+    .imagesDivChild div{
+      margin-top: 40px;
+      font-size:small;
+      margin-left: 200px;
+      margin-left: 5px;
+      width: 260px;
+      height: 80px;
+    }
+    .ulNav2{
+      margin-top: 50px;
+      margin-right: 15%;
+      margin-left: 300px;
+   }
+   .liNav2{
+      color: rgb(7, 7, 7);
+      font-size: 18px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   
+   .aNav2{
+      color: rgb(7, 7, 7);
+      font-size: 10px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      border-bottom: 0px;
+      transition: all 0.5s linear;
+   }
+   .aNav2:hover{
+      border-bottom: 4px solid yellow;
+      color: rgb(7, 7, 7);
+   }
+   .imageBank{
+      width: 60px;
+      height: 80px;
+      position: absolute;
+    left: 50px;
+    top: 61px;
+   }
+   .liImg{
+      position: absolute;
+    left: 125px;
+    margin-top: -85px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+    list-style: none;
+    font-size: 18px;
+   
+   }
+   .h6Nav2{
+      position: absolute;
+      left: 125px;
+      margin-top: -30px;
+      color: rgb(90, 89, 89);
+      
+   }
+   .divProject{
+      position: absolute;
+      background-color: yellow;
+      height: 80px;
+      left:76.4%;
+      text-align: center;
+      width: 14.1%;
+      top:80px;
+      color: rgb(3, 3, 3);
+      font-size: 5px;
+      
+   }
+   .h1Project{
+      margin-top: 35px;
+      margin-left: -4%;
+   }
+  
+   .fa-search{
+    position: absolute;
+    top: 15px;
+    left: 78.5%;
+    font-size: 10px;
+  }
+  .br{
+     position: absolute;
+     background-color:gray;
+     width: 85px;
+     left: 78%;
+     margin-top: -10px;
+     
+  }
+  .imageSlide {
+    margin-left: 45.5%;
+    width: 54.2%;
+    height: 25rem;
+  }
+  
+  
+  .h1Slide {
+    position: absolute;
+    margin-top: -330px;
+    margin-left: 5.7%;
+    color: white;
+    font-size: x-large;
+  }
+  
+  .pSlide {
+    position: absolute;
+    margin-top: -280px;
+    width: 29%;
+    margin-left: 5.7%;
+    color: white;
+    font-size: 14px;
+  }
+  .aSlide {
+    position: absolute;
+    margin-top: 258px;
+    left: 17%;
+    color: blue;
+    background-color: white;
+    font-size: 19px;
+    border-radius: 20%;
+    padding: 15px;
+    text-decoration: none;
+  }
+  .aSlide:hover {
+    color: white;
+    background-color: gray;
+  }
+  
+  .assistedImageDiv {
+    background-color: rgb(47, 47, 248);
+    height: 400px;
+    width: 46%;
+    position: absolute;
+    margin-left: 0px;
+  }
+  
+  .assistedImageDiv2 {
+    background-color: rgb(5, 128, 5);
+  }
+  .assistedImageDiv1 {
+    background-color: rgb(179, 75, 75);
+  }
+  .assistedImageDiv3 {
+    background-color: rgb(187, 124, 5);
+  }
+  .h1Slide1 {
+    width: 300px;
+  }
+  .Slide2{
+    position: absolute;
+    margin-top: -405px;
+    height: 460px;
+    width: 100%;
+    transform: translateX(100%);
+    transition: all 0.8s linear;
+  
+  }
+  .Slide3{
+    transform: translateX(100%);
+    position: absolute;
+    margin-top: -400px;
+    height: 400px;
+    width: 100%;
+    transform: translateX(100%);
+    transition: all 0.8s linear;
+  }
+  .Slide4{
+    
+    position: absolute;
+    margin-top: -400px;
+    height: 400px;
+    width: 100%;
+    transform: translateX(100%);
+    transition: all 0.8s linear;
+  }
+  .Slide{
+   transition: all 0.5s linear;
+  }
+  .button{
+    margin-left: 8%;
+    width: 11%;
+    height: 6.2%;
+    color: transparent;
+    cursor:pointer;
+    display: inline;
+  
+  
+  }
+  .buttonDiv{
+    margin-top:-50px;
+    position: absolute;
+    margin-left: 4%;
+    width: 40%;
+    height: 10%;
+  }
+  main {
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+  }
+  .title {
+    text-align: center;
+    margin-bottom: 4rem;
+  }
+  .title h2 {
+    font-size: large;
+    margin-top: 80px;
+  }
+  .underline {
+    height: 0.25rem;
+    width: 5rem;
+    background: var(--clr-primary-5);
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .container {
+    width: 80vw;
+    max-width: var(--fixed-width);
+  }
+  .review {
+    background: var(--clr-white);
+    padding: 1.5rem 2rem;
+    border-radius: var(--radius);
+    box-shadow: var(--light-shadow);
+    transition: var(--transition);
+    text-align: center;
+  }
+  .review:hover {
+    box-shadow: var(--dark-shadow);
+  }
+  .img-container {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-bottom: 1.5rem;
+  }
+  #person-img {
+    width: 100%;
+    display: block;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+    position: relative;
+  }
+  .img-container::after {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f10e";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 2.5rem;
+    height: 2.5rem;
+    display: grid;
+    place-items: center;
+    border-radius: 50%;
+    transform: translateY(25%);
+    background: var(--clr-primary-5);
+    color: var(--clr-white);
+  }
+  .img-container::before {
+    content: "";
+    width: 100%;
+    height: 100%;
+    background: var(--clr-primary-5);
+    position: absolute;
+    top: -0.25rem;
+    right: -0.5rem;
+    border-radius: 50%;
+  }
+  #author {
+    margin-bottom: 0.25rem;
+  }
+  #job {
+    margin-bottom: 0.5rem;
+    text-transform: uppercase;
+    color: var(--clr-primary-5);
+    font-size: 0.85rem;
+  }
+  #info {
+    margin-bottom: 0.75rem;
+  }
+  .prev-btn,
+  .next-btn {
+    color: var(--clr-primary-7);
+    font-size: 1.25rem;
+    background: transparent;
+    border-color: transparent;
+    margin: 0 0.5rem;
+    transition: var(--transition);
+    cursor: pointer;
+  }
+  .prev-btn:hover,
+  .next-btn:hover {
+    color: var(--clr-primary-5);
+  }
+  .random-btn {
+    margin-top: 0.5rem;
+    background: var(--clr-primary-10);
+    color: var(--clr-primary-5);
+    padding: 0.25rem 0.5rem;
+    text-transform: capitalize;
+    border-radius: var(--radius);
+    transition: var(--transition);
+    border-color: var(--clr-primary-5);
+    cursor: pointer;
+  }
+  .random-btn:hover {
+    background: var(--clr-primary-5);
+    color: var(--clr-primary-1);
+  }
+  .Savings{
+    margin-top: -130px;
+    margin-left: 300px;
+    position: absolute;
+    color: green;
+  }
+  .ProjectOnChild a{
+    text-decoration: none;
+    cursor: pointer;
+  
+   
+  }
+  .firstChild{
+    color: black;
+    margin-left: 37.5%;
+    font-size: xx-small;
+  }
+  .lastChild{
+    color: black;
+    margin-left: 1px;
+    font-size: xx-small;
+  
+  }
+  .divPlans{
+    position: absolute;
+    margin-top: -520px;
+    background-color: white;
+    height: 499px;
+    width: 100%;
+  }
+  .divPlans img{
+   height: 300px;
+   width: 150px;
+  }
+  .divPlans h3{
+   margin-top: 340px;
+   margin-left: 0px;
+   position: absolute;
+   width: 160px;
+   height: 50px;
+   font-size: 0.5rem;
+   font-weight: 1px;
+   color:rgb(53, 51, 51);
+   font-family:sans-serif
+  }
+  .divPlans ul  {
+  margin-left: 20px;
+  margin-top: 0px;
+  display: inline-block;
+  
+  }
+  .divPlans ul li {
+    
+  margin-left: -20px;
+  margin-top: 10px;
+  display: block;
+  }
+  .divPlans ul li a {
+    color:rgb(65, 60, 60);
+    margin-left: 30px;
+    
+    }
+  .divPlans ul li a:hover {
+    color:rgb(65, 60, 60);
+    
+    }
+    .divPlans .h4 {
+    font-size: small;
+   position: absolute;
+   margin-left: -20px;
+   margin-top: -20px;
+    }
+    .li1{
+      margin-top: 0px;
+    margin-left: -400px;
+    }
+    .h42{
+      margin-left: 190px;
+      margin-top: 30px;
+      font-size: larger;
+    }
+    .digitalDiv{
+      margin-top: -400px;
+      position: absolute;
+    }
+    .h41{
+     margin-left: 170px;
+     font-size: larger;
+    }
+  
+  .SecuredDiv{
+  margin-left: 1250px;
+  margin-top: -150px;
+  }
+  .ulSavings{
+    margin-top:-500px;
+    
+  }
+  }
+  @media (max-width: 1550px) {
+
+  .search input{
+    position: absolute;
+    left: 0.5%;
+    top:0px;
+    height: 42px;
+    width:155px;
+    padding-left: 50px;
+ }
+ .BackgrundSlide {
+  position: absolute;
+  margin-top: 13px;
+  height: 2028px;
+  width: 90%;
+  overflow: hidden;
+ }
+ div.nav{
+  margin-top: -20px;
+  background-color: rgb(65, 64, 64);
+  height: 50px;
+  margin-right: 22.5%;
+}
+.imagesDivChild div{
+  margin-top: 40px;
+  font-size:17px;
+  margin-left: 20px;
+  width: 390px;
+  height: 80px;
+}
+.divPlans ul  {
+  margin-left: 160px;
+  margin-top: 0px;
+  display: inline-block;
+  
+  }
+  .divPlans ul li {
+    
+  margin-left: -20px;
+  margin-top: 10px;
+  display: block;
+  }
+  .divPlans ul li a {
+    color:rgb(65, 60, 60);
+    margin-left: -130px;
+    margin-top: 10px;
+    
+    }
+  .divPlans ul li a:hover {
+    color:rgb(65, 60, 60);
+    
+    }
+    .divPlans .h4 {
+    font-size: large;
+   position: absolute;
+   margin-left: -150px;
+   margin-top: -20px;
+    }
+    .SecuredDiv{
+margin-left: 1020px;
+    }
+    .aNav2{
+      color: rgb(7, 7, 7);
+      font-size: 16px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      border-bottom: 0px;
+      transition: all 0.5s linear;
+   }
+   .aNav2:hover{
+      border-bottom: 4px solid yellow;
+      color: rgb(7, 7, 7);
+   }
+   .imageBank{
+      width: 60px;
+      height: 80px;
+      position: absolute;
+    left: 50px;
+    top: 61px;
+   }
+   .liImg{
+      position: absolute;
+    left: 125px;
+    margin-top: -85px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+    list-style: none;
+    font-size: 18px;
+   
+   }
+   .h6Nav2{
+      position: absolute;
+      left: 125px;
+      margin-top: -30px;
+      color: rgb(90, 89, 89);
+      
+   }
+   .divProject{
+      position: absolute;
+      background-color: yellow;
+      height: 80px;
+      left:76.4%;
+      text-align: center;
+      width: 14.1%;
+      top:80px;
+      color: rgb(3, 3, 3);
+      font-size:8px;
+      
+   }
+   .firstChild{
+    color: black;
+    margin-left: 37.5%;
+    font-size: small;
+  }
+  .lastChild{
+    color: black;
+    margin-left: 1px;
+    font-size:small;
+  
+  }
+}
+
+@media (max-width: 1350px) {
+  .search input{
+    position: absolute;
+    left: 0.5%;
+    top:0px;
+    height: 42px;
+    width:125px;
+    padding-left: 50px;
+ }
+ .BackgrundSlide {
+  position: absolute;
+  margin-top: 13px;
+  height: 1888px;
+  width: 90%;
+  overflow: hidden;
+ }
+ div.nav{
+  margin-top: -20px;
+  background-color: rgb(65, 64, 64);
+  height: 50px;
+  margin-right: 22.5%;
+}
+.imagesDivChild div{
+  margin-top: 40px;
+  font-size:17px;
+  margin-left: 20px;
+  width: 390px;
+  height: 80px;
+}
+.divPlans ul  {
+  margin-left: 190px;
+  margin-top: 0px;
+  display: inline-block;
+  
+  }
+  .divPlans ul li {
+    
+  margin-left: -20px;
+  margin-top: 10px;
+  display: block;
+  }
+  .divPlans ul li a {
+    color:rgb(65, 60, 60);
+    margin-left: -130px;
+    margin-top: 10px;
+    
+    }
+  .divPlans ul li a:hover {
+    color:rgb(65, 60, 60);
+    
+    }
+    .divPlans .h4 {
+    font-size: large;
+   position: absolute;
+   margin-left: -150px;
+   margin-top: -20px;
+    }
+    .SecuredDiv{
+margin-left: 830px;
+    }
+    .aNav2{
+      color: rgb(7, 7, 7);
+      font-size: 16px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      border-bottom: 0px;
+      transition: all 0.5s linear;
+   }
+   .aNav2:hover{
+      border-bottom: 4px solid yellow;
+      color: rgb(7, 7, 7);
+   }
+   .imageBank{
+      width: 60px;
+      height: 80px;
+      position: absolute;
+    left: 50px;
+    top: 61px;
+   }
+   .liImg{
+      position: absolute;
+    left: 125px;
+    margin-top: -85px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+    list-style: none;
+    font-size: 18px;
+   
+   }
+   .h6Nav2{
+      position: absolute;
+      left: 125px;
+      margin-top: -30px;
+      color: rgb(90, 89, 89);
+      
+   }
+   .divProject{
+      position: absolute;
+      background-color: yellow;
+      height: 80px;
+      left:76.4%;
+      text-align: center;
+      width: 14.1%;
+      top:80px;
+      color: rgb(3, 3, 3);
+      font-size:8px;
+      
+   }
+   hr{
+    color: gray;
+   }
+   .br{
+    position: absolute;
+    background-color:gray;
+    width: 125px;
+    left: 78%;
+ }
+ .imagesDivChild div{
+  margin-top: 40px;
+  font-size:13px;
+  margin-left: 20px;
+  width: 350px;
+  height: 80px;
+} .ProjectOnChild a{
+  text-decoration: none;
+  cursor: pointer;
+
+ 
+}
+.firstChild{
+  color: black;
+  margin-left: 37.5%;
+  font-size: small;
+}
+.lastChild{
+  color: black;
+  margin-left: 1px;
+  font-size: small;
+
+}
+div ul li a{
+  text-decoration: none;
+  color: rgb(219, 215, 215);
+  font-size: 13px;
+}
+.BookingDiv{
+  margin-top: 130px;
+  width: 55%;
+}
+.BookingDiv h1{
+  margin-top: 80px;
+  margin-left: 13%;
+  font-size: 20px;
+  color: red;
+}
+.BookingDiv img{
+max-height: 30%;
+width: 50%;
+margin-left: 60px;
+cursor: pointer;
+transition: all 1s linear;
+
+}
+.BookingDiv img:hover{
+width: 65%;
+}
+
+.NewsDiv{
+  position: absolute;
+  margin-left: 54%;
+  margin-top: -26%;
+  width: 150%;
+  max-height: 400px
+}
+.NewsDiv h4{
+  color: dimgrey;
+  margin-top: 32px;
+  font-size: 11px;
+}
+.NewsDiv h3{
+ margin-top: 20px;
+ color: green;
+ font-size: 13px;
+}
+.NewsDiv {
+ font-size:15px;
+
+}
+}
+@media (max-width: 1150px) {
+  .search input{
+    position: absolute;
+    left: 0.5%;
+    top:0px;
+    height: 42px;
+    width:95px;
+    padding-left: 50px;
+    font-size: 10px;
+ }
+ .BackgrundSlide {
+  position: absolute;
+  margin-top: 13px;
+  height: 1810px;
+  width: 90%;
+  overflow: hidden;
+ }
+ div.nav{
+  margin-top: -20px;
+  background-color: rgb(65, 64, 64);
+  height: 50px;
+  margin-right: 22.5%;
+}
+.imagesDivChild div{
+  margin-top: 40px;
+  font-size:13px;
+  margin-left: 20px;
+  width: 360px;
+  height: 80px;
+}
+.divPlans ul  {
+  margin-left: 165px;
+  margin-top: 0px;
+  display: inline-block;
+  
+  }
+  .divPlans ul li {
+    
+  margin-left: -20px;
+  margin-top: 10px;
+  display: block;
+  }
+  .divPlans ul li a {
+    color:rgb(65, 60, 60);
+    margin-left: -130px;
+    margin-top: 10px;
+    
+    }
+  .divPlans ul li a:hover {
+    color:rgb(65, 60, 60);
+    
+    }
+    .divPlans .h4 {
+    font-size: large;
+   position: absolute;
+   margin-left: -150px;
+   margin-top: -20px;
+    }
+    .SecuredDiv{
+margin-left: 780px;
+    }
+    .aNav2{
+      color: rgb(7, 7, 7);
+      font-size: 16px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      border-bottom: 0px;
+      transition: all 0.5s linear;
+   }
+   .aNav2:hover{
+      border-bottom: 4px solid yellow;
+      color: rgb(7, 7, 7);
+   }
+   .imageBank{
+      width: 60px;
+      height: 80px;
+      position: absolute;
+    left: 50px;
+    top: 61px;
+   }
+   .liImg{
+      position: absolute;
+    left: 125px;
+    margin-top: -85px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+    list-style: none;
+    font-size: 18px;
+   
+   }
+   .h6Nav2{
+      position: absolute;
+      left: 125px;
+      margin-top: -30px;
+      color: rgb(90, 89, 89);
+      
+   }
+   .divProject{
+      position: absolute;
+      background-color: yellow;
+      height: 80px;
+      left:76.4%;
+      text-align: center;
+      width: 14.1%;
+      top:80px;
+      color: rgb(3, 3, 3);
+      font-size:5px;
+      
+   }
+   hr{
+    color: gray;
+   }
+   .br{
+    position: absolute;
+    background-color:gray;
+    width: 125px;
+    left: 78%;
+ }
+ .imagesDivChild div{
+  margin-top: 40px;
+  font-size:11px;
+  margin-left: 20px;
+  width: 270px;
+  height: 80px;
+} .ProjectOnChild a{
+  text-decoration: none;
+  cursor: pointer;
+
+ 
+}
+.firstChild{
+  color: black;
+  margin-left: 37.5%;
+  font-size: x-small;
+}
+.lastChild{
+  color: black;
+  margin-left: 1px;
+  font-size: x-small;
+
+}
+div ul li a{
+  text-decoration: none;
+  color: rgb(219, 215, 215);
+  font-size: 11px;
+}
+.BookingDiv{
+  margin-top: 130px;
+  width: 55%;
+}
+.BookingDiv h1{
+  margin-top: 80px;
+  margin-left: 13%;
+  font-size: 20px;
+  color: red;
+}
+.BookingDiv img{
+max-height: 30%;
+width: 50%;
+margin-left: 60px;
+cursor: pointer;
+transition: all 1s linear;
+
+}
+.BookingDiv img:hover{
+width: 65%;
+}
+
+.NewsDiv{
+  position: absolute;
+  margin-left: 54%;
+  margin-top: -26%;
+  width: 150%;
+  max-height: 400px
+}
+.NewsDiv h4{
+  color: dimgrey;
+  margin-top: 32px;
+  font-size: 11px;
+}
+.NewsDiv h3{
+ margin-top: 20px;
+ color: green;
+ font-size: 13px;
+}
+.NewsDiv {
+ font-size:15px;
+}
+.aNav2{
+  color: rgb(7, 7, 7);
+  font-size: 12px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border-bottom: 0px;
+  transition: all 0.5s linear;
+}
+.aNav2:hover{
+  border-bottom: 4px solid yellow;
+  color: rgb(7, 7, 7);
+}
+}
+@media (max-width: 1050px) {
+  .search input{
+    position: absolute;
+    left: 0.5%;
+    top:0px;
+    height: 42px;
+    width:85px;
+    padding-left: 50px;
+    font-size: 10px;
+ }
+ .BackgrundSlide {
+  position: absolute;
+  margin-top: 13px;
+  height: 1810px;
+  width: 90%;
+  overflow: hidden;
+ }
+ div.nav{
+  margin-top: -20px;
+  background-color: rgb(65, 64, 64);
+  height: 50px;
+  margin-right: 22.5%;
+}
+.imagesDivChild div{
+  margin-top: 40px;
+  font-size:13px;
+  margin-left: 20px;
+  width: 360px;
+  height: 80px;
+}
+.divPlans ul  {
+  margin-left: 165px;
+  margin-top: 0px;
+  display: inline-block;
+  
+  }
+  .divPlans ul li {
+    
+  margin-left: -20px;
+  margin-top: 10px;
+  display: block;
+  }
+  .divPlans ul li a {
+    color:rgb(65, 60, 60);
+    margin-left: -130px;
+    margin-top: 10px;
+    
+    }
+  .divPlans ul li a:hover {
+    color:rgb(65, 60, 60);
+    
+    }
+    .divPlans .h4 {
+    font-size: large;
+   position: absolute;
+   margin-left: -150px;
+   margin-top: -20px;
+    }
+    .SecuredDiv{
+margin-left: 780px;
+    }
+    .aNav2{
+      color: rgb(7, 7, 7);
+      font-size: 16px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      border-bottom: 0px;
+      transition: all 0.5s linear;
+   }
+   .aNav2:hover{
+      border-bottom: 4px solid yellow;
+      color: rgb(7, 7, 7);
+   }
+   .imageBank{
+      width: 40px;
+      height: 60px;
+      position: absolute;
+    left: 50px;
+    top: 61px;
+   }
+   .liImg{
+      position: absolute;
+    left: 125px;
+    margin-top: -85px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+    list-style: none;
+    font-size: 18px;
+   
+   }
+   .h6Nav2{
+      position: absolute;
+      left: 125px;
+      margin-top: -30px;
+      color: rgb(90, 89, 89);
+      
+   }
+   .divProject{
+      position: absolute;
+      background-color: yellow;
+      height: 80px;
+      left:76.4%;
+      text-align: center;
+      width: 14.1%;
+      top:80px;
+      color: rgb(3, 3, 3);
+      font-size:5px;
+      
+   }
+   hr{
+    color: gray;
+   }
+   .br{
+    position: absolute;
+    background-color:gray;
+    width: 85px;
+    left: 78%;
+ }
+ .imagesDivChild div{
+  margin-top: 40px;
+  font-size:9px;
+  margin-left: 20px;
+  width: 240px;
+  height: 80px;
+} .ProjectOnChild a{
+  text-decoration: none;
+  cursor: pointer;
+
+ 
+}
+.firstChild{
+  color: black;
+  margin-left: 37.5%;
+  font-size: xx-small;
+}
+.lastChild{
+  color: black;
+  margin-left: 1px;
+  font-size: xx-small;
+
+}
+div ul li a{
+  text-decoration: none;
+  color: rgb(219, 215, 215);
+  font-size: 11px;
+}
+.BookingDiv{
+  margin-top: 130px;
+  width: 55%;
+}
+.BookingDiv h1{
+  margin-top: 80px;
+  margin-left: 13%;
+  font-size: 20px;
+  color: red;
+}
+.BookingDiv img{
+max-height: 30%;
+width: 50%;
+margin-left: 60px;
+cursor: pointer;
+transition: all 1s linear;
+
+}
+.BookingDiv img:hover{
+width: 65%;
+}
+
+.NewsDiv{
+  position: absolute;
+  margin-left: 54%;
+  margin-top: -26%;
+  width: 150%;
+  max-height: 380px
+}
+.NewsDiv h4{
+  color: dimgrey;
+  margin-top: 32px;
+  font-size: 7px;
+}
+.NewsDiv h3{
+ margin-top: 20px;
+ color: green;
+ font-size: 9px;
+}
+.NewsDiv {
+ font-size:11px;
+}
+.aNav2{
+  color: rgb(7, 7, 7);
+  font-size: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border-bottom: 0px;
+  transition: all 0.5s linear;
+  margin-left: -10px;
+}
+.aNav2:hover{
+  border-bottom: 4px solid yellow;
+  color: rgb(7, 7, 7);
+}
+}
